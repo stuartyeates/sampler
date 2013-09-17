@@ -1,4 +1,17 @@
 
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, , 
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-eng/nld-eng.tei?format=raw, .
+
+http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza001eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza001, 
+http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza022eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza022, 
+http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza003eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza003, 
+
+http://irt.kcl.ac.uk/irt2009/IRT001.xml, http://irt.kcl.ac.uk/irt2009/IRT001.html, 
+http://irt.kcl.ac.uk/irt2009/IRT002.xml, http://irt.kcl.ac.uk/irt2009/IRT002.html, 
+http://irt.kcl.ac.uk/irt2009/IRT100.xml, http://irt.kcl.ac.uk/irt2009/IRT100.html, 
+http://irt.kcl.ac.uk/irt2009/IRT101.xml, http://irt.kcl.ac.uk/irt2009/IRT101.html, 
 
 https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.133.xml, https://github.com/papyri/idp.data/, 
 https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.2.xml, https://github.com/papyri/idp.data/, 

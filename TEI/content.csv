@@ -1,10 +1,9 @@
 
-
-jar:http://insaph.kcl.ac.uk/ala2004/redist/inscriptions/inscriptions.zip!/eAla001.xml, http://insaph.kcl.ac.uk/ala2004/
+jar:http://insaph.kcl.ac.uk/ala2004/redist/inscriptions/inscriptions.zip!/eAla001.xml, http://insaph.kcl.ac.uk/ala2004/,  
 
 http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.org/docs/software.htm,  
 http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm
+http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
 
 http://nzetc.victoria.ac.nz/tei-source/JCB-004.xml, http://nzetc.victoria.ac.nz/tm/scholarly/tei-JCB-004.html,  
 http://nzetc.victoria.ac.nz/tei-source/RobMoko.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-RobMoko.html, 

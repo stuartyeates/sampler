@@ -30,7 +30,7 @@ https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/demo.xml, ,
 https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml, https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml, 
 
 https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb, https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb, 
-https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb
+https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, 
 
 https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml, https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml, 
 https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml, https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml, 

@@ -95,28 +95,28 @@ https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/teibp.xml, ,
 https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/teibpstyles.xml, , 
 https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/demo.xml, , 
 
-https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml, https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml, 
+https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml, , 
 
-https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb, https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb, 
-https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, 
+https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb, ,
+https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, , 
 
-https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml, https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml, 
-https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml, https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml, 
-https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v3.xml, https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v3.xml, 
+https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml, , 
+https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml, , 
+https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v3.xml, , 
 
-https://github.com/supermario84/Parser/raw/master/src/main/resources/file9.xml, https://github.com/supermario84/Parser/raw/master/src/main/resources/file9.xml, 
-https://github.com/supermario84/Parser/raw/master/src/main/resources/file3.xml, https://github.com/supermario84/Parser/raw/master/src/main/resources/file3.xml, 
-https://raw.github.com/supermario84/Parser/master/src/main/resources/file.xml, https://raw.github.com/supermario84/Parser/master/src/main/resources/file.xml, 
+https://github.com/supermario84/Parser/raw/master/src/main/resources/file9.xml, , 
+https://github.com/supermario84/Parser/raw/master/src/main/resources/file3.xml, , 
+https://raw.github.com/supermario84/Parser/master/src/main/resources/file.xml, , 
 
-https://github.com/MichaelBroschinsky/Templates/raw/master/TEI/Book.tei-full.xml, https://github.com/MichaelBroschinsky/Templates/raw/master/TEI/Book.tei-full.xml, 
+https://github.com/MichaelBroschinsky/Templates/raw/master/TEI/Book.tei-full.xml, , 
 
-https://github.com/mangalam-research/salve/raw/master/test/tei/to_parse.xml, https://github.com/mangalam-research/salve/raw/master/test/tei/to_parse.xml, 
+https://github.com/mangalam-research/salve/raw/master/test/tei/to_parse.xml, , 
 
-https://raw.github.com/mromanello/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml, https://raw.github.com/mromanello/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml, 
+https://github.com/mromanello/raw/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml, https://raw.github.com/mromanello/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml, 
 
-https://github.com/mikekestemont/Hadewijch/blob/master/Letters_MSA.xml?raw=true, https://github.com/mikekestemont/Hadewijch/blob/master/Letters_MSA.xml?raw=true, 
+https://github.com/mikekestemont/Hadewijch/blob/master/Letters_MSA.xml?raw=true, , 
 
-https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/WizardOfOz1903.xml, https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/WizardOfOz1903.xml, 
+https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/WizardOfOz1903.xml, , 
 
 https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/BlackCrook.xml, https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/BlackCrook.xml, 
 

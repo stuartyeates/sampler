@@ -1,10 +1,43 @@
+https://github.com/paregorios/apis-format/raw/master/files/columbia.apis.p179.xml, ,
+
+https://github.com/clioweb/travails/raw/master/docs/tei/correspondence/Ce-Br(43-09-22).xml, , 
+
+https://github.com/wp-plugins/anthologize/raw/master/tests/teiApiTests/test.xml, , 
+
+https://github.com/eXist-db/matumi/raw/master/encyclopedias/persons.xml, , 
+
+https://github.com/bhb/ruby-spellcheck/raw/master/test-data/0643.xml, , 
+
+https://github.com/nkallen/perseus-greco-roman/raw/master/Plutarch/opensource/plut.comp.phil.flam_gk.xml, , 
+
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJEx.xml, , 
+
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsAug.15.1904.xml, , 
+
+https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-eng.xml, , 
+https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-ned.xml, , 
+https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia.xml, , 
+
+https://github.com/SAA-SDT/eac-cpf-taglibrary/raw/master/tei_examplefiles_florence/EAC-CPF_TagLibrary_elementDescription_TEI_essai1.xml, , 
+
+https://github.com/jpeak5/tei-examples/raw/6e4059bfb9e39bbf62e388d1369106644e360e0b/3-TEI.xml, , 
+
+https://github.com/nowviskie/Swinburne/raw/c1ef50dfe0e4a5bcd805f77cf977f672d5e905b3/xml/pubhistory.xml, , 
+
 https://github.com/performant-software/juxta-ws-ruby/raw/master/test/good-testdata/encoding.xml, , 
+https://github.com/performant-software/juxta-ws-ruby/raw/master/test/good-testdata/frank-1831.xml, , 
 
 https://github.com/steko/epidoc/raw/master/guidelines/src/documentstructureintro.xml, , 
+https://github.com/steko/epidoc/raw/master/guidelines/src/abbreviationsnotunderstood.xml, , 
 
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml, , 
-
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/703376.tei.xml, ,
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/10000050.tei.xml, ,
 https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/20000006.tei.xml, , 
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-1.tei.xml, , 
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-2.tei.xml, , 
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-3.tei.xml, , 
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-4.tei.xml, , 
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-5.tei.xml, , 
 
 https://github.com/hcayless/tei-string-range/raw/master/bgu.1.116.xml
 
@@ -16,6 +49,7 @@ https://github.com/dhamma/tipitaka/raw/master/cst4xml-devanagari/e1213n.nrf.xml,
 https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041401.xml, , 
 https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041404.xml, , 
 https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041425.xml, , 
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml, , 
 
 https://github.com/faustedition/app/raw/master/faust/src/test/resources/de/faustedition/tei/faust-tei-sample.xml, , 
 

@@ -1,3 +1,12 @@
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels/text_structure.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/text.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_segmentation.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_morphosyntax.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_senses.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_words.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_named.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_groups.xml, , 
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/header.xml, , 
 
 https://github.com/iulibdcs/tei_text/raw/master/vwwp_tei/VAB7010.xml, , 
 http://purl.dlib.indiana.edu/iudl/inauthors/encodedtext/VAA2319, , 

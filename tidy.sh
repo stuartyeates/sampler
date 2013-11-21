@@ -2,7 +2,7 @@ while read LINE
 do
     URL1=`echo $LINE|sed 's/,.*//'`
     #echo $URL1
-    URL=`echo $URL1 | sed 's^|^%7C^g'`
+    URL=`echo $URL1 | sed 's^|^%7C^g' | sed 's^?^%3F^'`
     #echo $URL $URL1
     if [ -n "$URL" ]; then 
 	LOCATION=`curl --silent --retry 1 --head $URL| grep 'Location:'|sed 's^Location: ^^g' |tr -d '\15\32'`

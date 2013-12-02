@@ -1,4 +1,4 @@
-http://livingstone.library.ucla.edu/1871diary/documents/1871.xml
+http://livingstone.library.ucla.edu/1871diary/documents/1871.xml, , 
 
 http://greenhouse.economics.utah.edu/readings/GPZ2008SA.tei, , 
 
@@ -31,11 +31,9 @@ http://mith.umd.edu/eada/xml/yeardley_narrative.xml, ,
 http://mith.umd.edu/eada/xml/titucusi_instruccion1.xml.xml, , 
 http://mith.umd.edu/eada/xml/titucusi_instruccion.xml.xml, , 
 
-http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/ie
-http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/tei_ms.dtd
-http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/template.xml
-
-
+http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/ie, ,
+http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/tei_ms.dtd, , 
+http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/template.xml, , 
 
 http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels/text_structure.xml, , 
 http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/text.xml, , 
@@ -56,6 +54,12 @@ http://bcgenesis.uvic.ca/getDoc.xml?id=V51008.scx, ,
 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/blenmcaske.xml, , 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/bentepoems.xml, , 
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/ladyavarie.xml, ,
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/iriswmagic.xml, , 
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/beveebeeco.xml, ,
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/cookemelai.xml, , 
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/cowpforigi.xml, , 
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/curtmclass.xml, ,
 
 http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-01, , LARGE
 http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-21, , LARGE
@@ -88,10 +92,28 @@ http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml
 http://www.steinheim-institut.de/cgi-bin/epixml?xfunction=Ins&xsel=bay&xinv=0001, , 
 
 http://irt.kcl.ac.uk/irt2009/redist/inscr/P5/IRT256a.xml, , 
+http://irt.kcl.ac.uk/irt2009/IRT001.xml, , 
+http://irt.kcl.ac.uk/irt2009/IRT002.xml, , 
+http://irt.kcl.ac.uk/irt2009/IRT003.xml, , 
+http://irt.kcl.ac.uk/irt2009/IRT004.xml, , 
+http://irt.kcl.ac.uk/irt2009/IRT005.xml, , 
+http://irt.kcl.ac.uk/irt2009/redist/inscr/tei-epidoc.dtd, , 
 
 http://infomotions.com/alex2/authors/burroughs-edgar/burroughs-beasts-699/burroughs-beasts-699.xml, , 
 http://infomotions.com/alex2/authors/emerson-ralph/emerson-young-736/emerson-young-736.xml, , 
-
+http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cash-685/alger_jr-cash-685.xml, , 
+http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cast-690/alger_jr-cast-690.xml, , 
+http://infomotions.com/alex2/authors/austen-jane/austen-sense-723/austen-sense-723.xml, , 
+http://infomotions.com/alex2/authors/austen-jane/austen-northanger-726/austen-northanger-726.xml, , 
+http://infomotions.com/alex2/authors/bacon-francis/bacon-new-633/bacon-new-633.xml, , 
+http://infomotions.com/alex2/authors/bacon-francis/bacon-essays-684/bacon-essays-684.xml, , 
+http://infomotions.com/alex2/authors/dickens-charles/dickens-david-748/dickens-david-748.xml, , 
+http://infomotions.com/alex2/authors/poe-edgar/poe-cask-641/poe-cask-641.xml, , 
+http://infomotions.com/alex2/authors/poe-edgar/poe-angel-644/poe-angel-644.xml, , 
+http://infomotions.com/alex2/authors/poe-edgar/poe-balloon-683/poe-balloon-683.xml, , 
+http://infomotions.com/alex2/authors/plato/plato-critias-676/plato-critias-676.xml, , 
+http://infomotions.com/alex2/authors/plato/plato-charmides-645/plato-charmides-645.xml, , 
+http://infomotions.com/alex2/authors/plato/plato-cratylus-686/plato-cratylus-686.xml, , 
 
 http://docsouth.unc.edu/neh/mountain/mountain.xml, , 
 http://docsouth.unc.edu/nc/wreck/wreck.xml, , 

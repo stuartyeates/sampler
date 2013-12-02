@@ -1,4 +1,3 @@
-
 http://livingstone.library.ucla.edu/1871diary/documents/1871.xml
 
 http://greenhouse.economics.utah.edu/readings/GPZ2008SA.tei, , 
@@ -65,6 +64,26 @@ http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-22, , LARGE
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01vonBuchanBeausobre.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief02vonBuchanBeausobre.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief03vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief04vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief05vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief06vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief07vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief08vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief09vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief10vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief11vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief12vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief13vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief14vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief15vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief16vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief17vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief17vonBuchanBeausobre.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief001ChamissoandeLaFoye.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief002ChamissoandeLaFoye.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Reinbold_Literaturbrief.xml, , 
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml, , 
 
 http://www.steinheim-institut.de/cgi-bin/epixml?xfunction=Ins&xsel=bay&xinv=0001, , 
 
@@ -87,13 +106,28 @@ http://docsouth.unc.edu/sohp/K-0246/K-0246.xml, ,
 http://docsouth.unc.edu/imls/agnew/agnew.xml, ,
 
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc.xml, , 
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc2.xml, , 
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/autumn.xml, , 
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_facs.xml, ,
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_frag.xml, , 
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_works.xml, ,
 
 https://github.com/srophe/places/raw/master/xml/1005.xml, , 
+https://github.com/srophe/places/raw/master/xml/1080.xml, , 
+https://github.com/srophe/places/raw/master/xml/1085.xml, , 
+https://github.com/srophe/places/raw/master/xml/1086.xml, , 
+https://github.com/srophe/places/raw/master/xml/1087.xml, , 
+https://github.com/srophe/places/raw/master/xml/1088.xml, , 
+https://github.com/srophe/places/raw/master/xml/Examples/658.xml, ,
+https://github.com/srophe/places/raw/master/xml/Examples/78.xml, ,
 
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/CH.AM46.xml, , 
 https://github.com/clioweb/travails/raw/master/docs/tei/tei_ces.xml, , 
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch46.xml, ,
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch56.xml , ,
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76.xml, , 
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76_x.xml, , 
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/chMaster.xml, , 
 
 https://github.com/srophe/manuscripts/raw/master/HMML%20TEI%20Crosswalk.xml, ,
 

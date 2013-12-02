@@ -1,9 +1,17 @@
-
 http://nl.ijs.si/e-zrc/bs/tei/bs.xml, , 
 http://nl.ijs.si/e-zrc/bs/tei/bsBI.xml, , 
 
 http://nl.ijs.si/e-zrc/bs/tei/tei2.dtd, , 
 http://nl.ijs.si/e-zrc/bs/tei/tei2-ext.dtd, ,
+
+http://helmer.hit.uib.no/xml/TEI/Dikt.xml, , 
+
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A00, , 
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A02, , 
+
+http://www.blackmesatech.com/2009/10/thutmose/L1/user-supplied-text.xml, , 
+
+http://www.natcorp.ox.ac.uk/archive/vault/bncx32.txt, , 
 
 
 http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels/text_structure.xml, , 

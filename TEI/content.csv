@@ -181,13 +181,34 @@ http://tei.oucs.ox.ac.uk/Talks/2011-02-aix/talk-hdr.xml?style=raw, ,
 https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP190.xml, ,
 https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEI121.xml, , 
 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/BX8558.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP201.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP265.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/COTTIBA3.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/JUNIUS.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/LAUD482.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TCTH482.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TCTH8558.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEH201.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC121.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC190.xml, , 
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC482.xml, , 
+
+
 https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/exercise.xml, , 
 https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/gentleintro.xml, , 
 https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/TEI.xml, , 
 
 
 https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.xml, , 
+https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.dtd, ,
+https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK-partxml.xml, ,
+
 https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-2.xml, , 
+https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.xml
+https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-partxml.xml
+https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.dtd
+
 https://documents-structures.googlecode.com/svn/site/corpus/rec_xslt.tag-JK-masc-fem.xml, ,
 
 https://ignis.googlecode.com/hg/new.xml, , 
@@ -205,10 +226,13 @@ https://github.com/ericleasemorgan/epub/raw/master/dracula.xml, ,
 https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/poem_template.xml, , 
 https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/letter_template.xml, , 
 
+https://github.com/jpeak5/tei-examples/raw/master/1-TEI.xml, , 
+https://github.com/jpeak5/tei-examples/raw/master/2-TEI.xml, ,
+https://github.com/jpeak5/tei-examples/raw/master/3-TEI.xml, , 
+https://github.com/jpeak5/tei-examples/raw/master/4-TEI.xml, ,
+https://github.com/jpeak5/tei-examples/raw/master/1-teiHeader.xml, , 
 
-https://github.com/jpeak5/tei-examples/edit/master/4-TEI.xml, ,
-
-https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml, ,
+https://github.com/paregorios/Mob-Epigraphy/raw/master/st-paul-outside/flavia-faustina.xml, ,
 
 https://github.com/paddymcall/SARIT/edit/master/00-SARIT-TEI-header-template.xml, ,
 

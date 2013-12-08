@@ -1,4 +1,15 @@
 
+http://quads.esds.ac.uk/projects/esds_odd.xml
+
+http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/xml/ab-813.xml
+
+http://rae2007.cch.kcl.ac.uk/epidoc/www.stoa.org/epidoc/gl/5/documentstructureintro.xml
+
+http://www.hab.de/files/europeana-regia/ODD/v0.1/schemaSpec.xml
+http://www.hab.de/files/europeana-regia/ODD/europeana-regia_ODD.xml
+http://www.hab.de/files/europeana-regia/ODD/europeana-regia.xml
+
+https://www.clarin.dk/schemas/tei/TEIDKCLARIN-plain-tei.rng
 
 http://www.gutenberg.org/files/11400/11400-x/11400-x.xml
 
@@ -30,6 +41,7 @@ http://greenhouse.economics.utah.edu/readings/GPZ2008SA.tei, ,
 http://old.diglib.org/standards/TEIguid.xml, , 
 
 
+
 http://nl.ijs.si/e-zrc/bs/tei/bs.xml, , 
 http://nl.ijs.si/e-zrc/bs/tei/bsBI.xml, , 
 
@@ -39,11 +51,19 @@ http://nl.ijs.si/e-zrc/bs/tei/tei2-ext.dtd, ,
 http://helmer.hit.uib.no/xml/TEI/Dikt.xml, , 
 
 http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A00, , 
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A01, , 
 http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A02, , 
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A03, , 
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A04, , 
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A05, ,
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A06, , 
+
 
 http://www.blackmesatech.com/2009/10/thutmose/L1/user-supplied-text.xml, , 
 
 http://www.natcorp.ox.ac.uk/archive/vault/bncx32.txt, , 
+
+
 
 http://www.wwp.brown.edu/outreach/seminars/cust_2010-08/demos/exhibits.xml, , 
 

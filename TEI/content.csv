@@ -678,13 +678,21 @@ http://archimedespalimpsest.net/Data/0000-171r/0000-171r_Arch68v_TEI_Netz-Wilson
 http://archimedespalimpsest.net/Data/0000-100v/0000-100v_Arch53r_TEI_Netz-Wilson.xml, http://archimedespalimpsest.net/, 
 http://archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson.xml, http://archimedespalimpsest.net/, 
 
-http://www.ota.ox.ac.uk/headers/2493.xml, http://auchinleck.nls.uk/, 
+http://www.ota.ox.ac.uk/headers/2493.xml, 
 
 jar:http://insaph.kcl.ac.uk/ala2004/redist/inscriptions/inscriptions.zip!/eAla001.xml, http://insaph.kcl.ac.uk/ala2004/,  
 
-http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.org/docs/software.htm,  
-http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
+http://teibyexample.org/docs/software.htm?cocoon-view=XML, 
+http://teibyexample.org/docs/about.htm?cocoon-view=XML, 
+http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED01v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED02v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED03v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED04v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED05v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED06v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED07v00.htm?cocoon-view=XML,
+http://teibyexample.org/modules/TBED08v00.htm?cocoon-view=XML,
 
 
 

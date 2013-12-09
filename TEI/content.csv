@@ -1,4 +1,3 @@
-
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/text.xml
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/header.xml
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/ann_senses.xnl
@@ -687,8 +686,5 @@ http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.o
 http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
 http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
 
-http://nzetc.victoria.ac.nz/tei-source/JCB-004.xml, http://nzetc.victoria.ac.nz/tm/scholarly/tei-JCB-004.html,  
-http://nzetc.victoria.ac.nz/tei-source/RobMoko.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-RobMoko.html, 
-http://nzetc.victoria.ac.nz/tei-source/GorLaws.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-GorLaws.html,  
 
 

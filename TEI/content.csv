@@ -295,6 +295,23 @@ https://github.com/srophe/manuscripts/raw/master/1110.xml, ,
 jar:http://digilab2.let.uniroma1.it/teiconf2013/wp-content/uploads/2013/09/book-abstracts.xml_.zip!/book-abstracts.xml, , 
 
 http://svn.sourceforge.jp/svnroot/classicalepwing/homeric/body/homeric.xml, , 
+http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/monier.xml.zip
+http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/MWHeader.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/eld/body/lewis2.xml
+
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Ac.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Amic.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Amic.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Att.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Brut.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Div.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Div.xml
+
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.xml
+
 
 letters.mozartways.com/index.php?lang=eng&letter=9&bd=209&xmlview=on, , 
 

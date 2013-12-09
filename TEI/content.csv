@@ -1,5 +1,4 @@
 
-
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/text.xml
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/header.xml
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/ann_senses.xnl
@@ -617,9 +616,46 @@ http://eidcsr.oucs.ox.ac.uk/contact.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/c
 http://eidcsr.oucs.ox.ac.uk/team.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/team.xml,
 
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, , 
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/freedict-P5.dtd?format=raw, , 
+
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-ita/deu-ita.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ara/eng-ara.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-fra/eng-fra.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-hin/eng-hin.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-hun/eng-hun.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-tur/eng-tur.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/kha-deu/kha-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/kha-eng/kha-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/lat-eng/lat-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/hun-eng/hun-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/afr-deu/afr-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/tur-eng/tur-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/dan-eng/dan-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-fra/deu-fra.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-nld/deu-nld.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-por/deu-por.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-deu/eng-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ita/eng-ita.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-lat/eng-lat.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/lat-deu/lat-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-deu/nld-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-nld/eng-nld.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-por/eng-por.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-rus/eng-rus.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-spa/eng-spa.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-swe/eng-swe.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-deu/fra-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-eng/fra-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-nld/fra-nld.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-deu/ita-deu.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-eng/ita-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/jpn-deu/jpn-deu.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-eng/nld-eng.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-fra/nld-fra.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/por-deu/por-deu.tei?format=raw, ,
+
+
 
 http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza001eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza001, 
 http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza022eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza022, 

@@ -1,7 +1,7 @@
 sampler
 =======
 
-Thisisn't attempting to be a complete list of all TEI 
+This isn't attempting to be a complete list of all TEI 
 accessible on the internet, but a diverse sample. Diverse 
 in terms of language, structure, linguistics, coding, tools 
 in use, hosting method, etc, etc. We welcome a handful of 

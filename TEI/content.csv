@@ -448,15 +448,7 @@ https://github.com/jpeak5/tei-examples/raw/master/3-TEI.xml, ,
 https://github.com/jpeak5/tei-examples/raw/master/4-TEI.xml, ,
 https://github.com/jpeak5/tei-examples/raw/master/1-teiHeader.xml, , 
 
-
 https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml, ,
->>>>>>>>>>>>>>>>>>>> File 2
-https://github.com/jpeak5/tei-examples/edit/master/4-TEI.xml, ,
-
-https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml, ,
->>>>>>>>>>>>>>>>>>>> File 3
-https://github.com/paregorios/Mob-Epigraphy/raw/master/st-paul-outside/flavia-faustina.xml, ,
-<<<<<<<<<<<<<<<<<<<<
 
 https://github.com/paddymcall/SARIT/edit/master/00-SARIT-TEI-header-template.xml, ,
 
@@ -712,16 +704,10 @@ http://eidcsr.oucs.ox.ac.uk/objectives.xml?style=raw, http://eidcsr.oucs.ox.ac.u
 http://eidcsr.oucs.ox.ac.uk/contact.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/contact.xml,
 http://eidcsr.oucs.ox.ac.uk/team.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/team.xml,
 
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, , 
->>>>>>>>>>>>>>>>>>>> File 1
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
->>>>>>>>>>>>>>>>>>>> File 2
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
->>>>>>>>>>>>>>>>>>>> File 3
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/freedict-P5.dtd?format=raw, , 
 
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-ita/deu-ita.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ara/eng-ara.tei?format=raw, ,
@@ -755,16 +741,10 @@ http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-nld/fra-nld.tei?forma
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-deu/ita-deu.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-eng/ita-eng.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/jpn-deu/jpn-deu.tei?format=raw, ,
-<<<<<<<<<<<<<<<<<<<<
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-eng/nld-eng.tei?format=raw, ,
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-fra/nld-fra.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/por-deu/por-deu.tei?format=raw, ,
 
-
-<<<<<<<<<<<<<<<<<<<<
 
 http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza001eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza001, 
 http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza022eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza022, 
@@ -788,33 +768,10 @@ http://archimedespalimpsest.net/Data/0000-171r/0000-171r_Arch68v_TEI_Netz-Wilson
 http://archimedespalimpsest.net/Data/0000-100v/0000-100v_Arch53r_TEI_Netz-Wilson.xml, http://archimedespalimpsest.net/, 
 http://archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson.xml, http://archimedespalimpsest.net/, 
 
->>>>>>>>>>>>>>>>>>>> File 1
-http://www.ota.ox.ac.uk/headers/2493.xml, http://auchinleck.nls.uk/, 
->>>>>>>>>>>>>>>>>>>> File 2
-http://www.ota.ox.ac.uk/headers/2493.xml, http://auchinleck.nls.uk/, 
->>>>>>>>>>>>>>>>>>>> File 3
-http://www.ota.ox.ac.uk/headers/2493.xml, 
-<<<<<<<<<<<<<<<<<<<<
+
 
 jar:http://insaph.kcl.ac.uk/ala2004/redist/inscriptions/inscriptions.zip!/eAla001.xml, http://insaph.kcl.ac.uk/ala2004/,  
 
->>>>>>>>>>>>>>>>>>>> File 1
-http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.org/docs/software.htm,  
-http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
-
-http://nzetc.victoria.ac.nz/tei-source/JCB-004.xml, http://nzetc.victoria.ac.nz/tm/scholarly/tei-JCB-004.html,  
-http://nzetc.victoria.ac.nz/tei-source/RobMoko.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-RobMoko.html, 
-http://nzetc.victoria.ac.nz/tei-source/GorLaws.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-GorLaws.html,  
->>>>>>>>>>>>>>>>>>>> File 2
-http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.org/docs/software.htm,  
-http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
-
-http://nzetc.victoria.ac.nz/tei-source/JCB-004.xml, http://nzetc.victoria.ac.nz/tm/scholarly/tei-JCB-004.html,  
-http://nzetc.victoria.ac.nz/tei-source/RobMoko.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-RobMoko.html, 
-http://nzetc.victoria.ac.nz/tei-source/GorLaws.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-GorLaws.html,  
->>>>>>>>>>>>>>>>>>>> File 3
 http://teibyexample.org/docs/software.htm?cocoon-view=XML, 
 http://teibyexample.org/docs/about.htm?cocoon-view=XML, 
 http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML,
@@ -827,6 +784,5 @@ http://teibyexample.org/modules/TBED06v00.htm?cocoon-view=XML,
 http://teibyexample.org/modules/TBED07v00.htm?cocoon-view=XML,
 http://teibyexample.org/modules/TBED08v00.htm?cocoon-view=XML,
 
-<<<<<<<<<<<<<<<<<<<<
 
 

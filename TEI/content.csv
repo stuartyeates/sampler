@@ -253,16 +253,12 @@ http://bcgenesis.uvic.ca/getDoc.xml?id=V51008.scx, ,
 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/blenmcaske.xml, , 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/bentepoems.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/ladyavarie.xml, ,
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/iriswmagic.xml, , 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/beveebeeco.xml, ,
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/cookemelai.xml, , 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/cowpforigi.xml, , 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/curtmclass.xml, ,
-<<<<<<<<<<<<<<<<<<<<
 
 http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-01, , LARGE
 http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-21, , LARGE
@@ -271,9 +267,6 @@ http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-22, , LARGE
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01vonBuchanBeausobre.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief02vonBuchanBeausobre.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief03vonBuchanBeausobre.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief04vonBuchanBeausobre.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief05vonBuchanBeausobre.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief06vonBuchanBeausobre.xml, , 
@@ -294,29 +287,19 @@ http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief002ChamissoandeLaFo
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Reinbold_Literaturbrief.xml, , 
 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml, , 
-<<<<<<<<<<<<<<<<<<<<
 
 http://www.steinheim-institut.de/cgi-bin/epixml?xfunction=Ins&xsel=bay&xinv=0001, , 
 
 http://irt.kcl.ac.uk/irt2009/redist/inscr/P5/IRT256a.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 http://irt.kcl.ac.uk/irt2009/IRT001.xml, , 
 http://irt.kcl.ac.uk/irt2009/IRT002.xml, , 
 http://irt.kcl.ac.uk/irt2009/IRT003.xml, , 
 http://irt.kcl.ac.uk/irt2009/IRT004.xml, , 
 http://irt.kcl.ac.uk/irt2009/IRT005.xml, , 
 http://irt.kcl.ac.uk/irt2009/redist/inscr/tei-epidoc.dtd, , 
-<<<<<<<<<<<<<<<<<<<<
 
 http://infomotions.com/alex2/authors/burroughs-edgar/burroughs-beasts-699/burroughs-beasts-699.xml, , 
 http://infomotions.com/alex2/authors/emerson-ralph/emerson-young-736/emerson-young-736.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
-
->>>>>>>>>>>>>>>>>>>> File 2
-
->>>>>>>>>>>>>>>>>>>> File 3
 http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cash-685/alger_jr-cash-685.xml, , 
 http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cast-690/alger_jr-cast-690.xml, , 
 http://infomotions.com/alex2/authors/austen-jane/austen-sense-723/austen-sense-723.xml, , 
@@ -330,7 +313,6 @@ http://infomotions.com/alex2/authors/poe-edgar/poe-balloon-683/poe-balloon-683.x
 http://infomotions.com/alex2/authors/plato/plato-critias-676/plato-critias-676.xml, , 
 http://infomotions.com/alex2/authors/plato/plato-charmides-645/plato-charmides-645.xml, , 
 http://infomotions.com/alex2/authors/plato/plato-cratylus-686/plato-cratylus-686.xml, , 
-<<<<<<<<<<<<<<<<<<<<
 
 http://docsouth.unc.edu/neh/mountain/mountain.xml, , 
 http://docsouth.unc.edu/nc/wreck/wreck.xml, , 
@@ -345,24 +327,14 @@ http://docsouth.unc.edu/sohp/K-0246/K-0246.xml, ,
 http://docsouth.unc.edu/imls/agnew/agnew.xml, ,
 
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc2.xml, , 
-<<<<<<<<<<<<<<<<<<<<
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/autumn.xml, , 
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_facs.xml, ,
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_frag.xml, , 
 https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_works.xml, ,
-<<<<<<<<<<<<<<<<<<<<
+
 
 https://github.com/srophe/places/raw/master/xml/1005.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://github.com/srophe/places/raw/master/xml/1080.xml, , 
 https://github.com/srophe/places/raw/master/xml/1085.xml, , 
 https://github.com/srophe/places/raw/master/xml/1086.xml, , 
@@ -370,24 +342,16 @@ https://github.com/srophe/places/raw/master/xml/1087.xml, ,
 https://github.com/srophe/places/raw/master/xml/1088.xml, , 
 https://github.com/srophe/places/raw/master/xml/Examples/658.xml, ,
 https://github.com/srophe/places/raw/master/xml/Examples/78.xml, ,
-<<<<<<<<<<<<<<<<<<<<
 
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/CH.AM46.xml, , 
 https://github.com/clioweb/travails/raw/master/docs/tei/tei_ces.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch46.xml, ,
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch56.xml , ,
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76.xml, , 
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76_x.xml, , 
 https://github.com/clioweb/travails/raw/master/docs/tei/chiens/chMaster.xml, , 
-<<<<<<<<<<<<<<<<<<<<
 
 https://github.com/srophe/manuscripts/raw/master/HMML%20TEI%20Crosswalk.xml, ,
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://github.com/srophe/manuscripts/raw/master/1.xml, ,
 https://github.com/srophe/manuscripts/raw/master/100.xml, ,
 https://github.com/srophe/manuscripts/raw/master/1002.xml, ,
@@ -401,14 +365,11 @@ https://github.com/srophe/manuscripts/raw/master/1053.xml, ,
 https://github.com/srophe/manuscripts/raw/master/106.xml, , 
 https://github.com/srophe/manuscripts/raw/master/109.xml, , 
 https://github.com/srophe/manuscripts/raw/master/1110.xml, , 
-<<<<<<<<<<<<<<<<<<<<
+
 
 jar:http://digilab2.let.uniroma1.it/teiconf2013/wp-content/uploads/2013/09/book-abstracts.xml_.zip!/book-abstracts.xml, , 
 
 http://svn.sourceforge.jp/svnroot/classicalepwing/homeric/body/homeric.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/monier.xml.zip
 http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/MWHeader.xml
 http://svn.sourceforge.jp/svnroot/classicalepwing/eld/body/lewis2.xml
@@ -426,7 +387,6 @@ http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.xml
 http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.en.xml
 http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.xml
 
-<<<<<<<<<<<<<<<<<<<<
 
 letters.mozartways.com/index.php?lang=eng&letter=9&bd=209&xmlview=on, , 
 
@@ -439,9 +399,6 @@ http://tei.oucs.ox.ac.uk/Talks/2011-02-aix/talk-hdr.xml?style=raw, ,
 https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP190.xml, ,
 https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEI121.xml, , 
 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://penitentials.googlecode.com/svn/trunk/OEP/data/BX8558.xml, , 
 https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP201.xml, , 
 https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP265.xml, , 
@@ -456,29 +413,18 @@ https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC190.xml, ,
 https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC482.xml, , 
 
 
-<<<<<<<<<<<<<<<<<<<<
 https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/exercise.xml, , 
 https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/gentleintro.xml, , 
 https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/TEI.xml, , 
 
 
 https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.dtd, ,
 https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK-partxml.xml, ,
-
-<<<<<<<<<<<<<<<<<<<<
 https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-2.xml, , 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.xml
 https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-partxml.xml
 https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.dtd
-
-<<<<<<<<<<<<<<<<<<<<
 https://documents-structures.googlecode.com/svn/site/corpus/rec_xslt.tag-JK-masc-fem.xml, ,
 
 https://ignis.googlecode.com/hg/new.xml, , 
@@ -496,27 +442,13 @@ https://github.com/ericleasemorgan/epub/raw/master/dracula.xml, ,
 https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/poem_template.xml, , 
 https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/letter_template.xml, , 
 
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 https://github.com/jpeak5/tei-examples/raw/master/1-TEI.xml, , 
 https://github.com/jpeak5/tei-examples/raw/master/2-TEI.xml, ,
 https://github.com/jpeak5/tei-examples/raw/master/3-TEI.xml, , 
 https://github.com/jpeak5/tei-examples/raw/master/4-TEI.xml, ,
 https://github.com/jpeak5/tei-examples/raw/master/1-teiHeader.xml, , 
-<<<<<<<<<<<<<<<<<<<<
-
->>>>>>>>>>>>>>>>>>>> File 1
-https://github.com/jpeak5/tei-examples/edit/master/4-TEI.xml, ,
 
 https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml, ,
->>>>>>>>>>>>>>>>>>>> File 2
-https://github.com/jpeak5/tei-examples/edit/master/4-TEI.xml, ,
-
-https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml, ,
->>>>>>>>>>>>>>>>>>>> File 3
-https://github.com/paregorios/Mob-Epigraphy/raw/master/st-paul-outside/flavia-faustina.xml, ,
-<<<<<<<<<<<<<<<<<<<<
 
 https://github.com/paddymcall/SARIT/edit/master/00-SARIT-TEI-header-template.xml, ,
 
@@ -772,16 +704,10 @@ http://eidcsr.oucs.ox.ac.uk/objectives.xml?style=raw, http://eidcsr.oucs.ox.ac.u
 http://eidcsr.oucs.ox.ac.uk/contact.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/contact.xml,
 http://eidcsr.oucs.ox.ac.uk/team.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/team.xml,
 
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, , 
->>>>>>>>>>>>>>>>>>>> File 1
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
->>>>>>>>>>>>>>>>>>>> File 2
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
->>>>>>>>>>>>>>>>>>>> File 3
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/freedict-P5.dtd?format=raw, , 
 
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-ita/deu-ita.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ara/eng-ara.tei?format=raw, ,
@@ -815,16 +741,10 @@ http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-nld/fra-nld.tei?forma
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-deu/ita-deu.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-eng/ita-eng.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/jpn-deu/jpn-deu.tei?format=raw, ,
-<<<<<<<<<<<<<<<<<<<<
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-eng/nld-eng.tei?format=raw, ,
->>>>>>>>>>>>>>>>>>>> File 1
->>>>>>>>>>>>>>>>>>>> File 2
->>>>>>>>>>>>>>>>>>>> File 3
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-fra/nld-fra.tei?format=raw, ,
 http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/por-deu/por-deu.tei?format=raw, ,
 
-
-<<<<<<<<<<<<<<<<<<<<
 
 http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza001eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza001, 
 http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza022eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza022, 
@@ -848,33 +768,10 @@ http://archimedespalimpsest.net/Data/0000-171r/0000-171r_Arch68v_TEI_Netz-Wilson
 http://archimedespalimpsest.net/Data/0000-100v/0000-100v_Arch53r_TEI_Netz-Wilson.xml, http://archimedespalimpsest.net/, 
 http://archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson.xml, http://archimedespalimpsest.net/, 
 
->>>>>>>>>>>>>>>>>>>> File 1
-http://www.ota.ox.ac.uk/headers/2493.xml, http://auchinleck.nls.uk/, 
->>>>>>>>>>>>>>>>>>>> File 2
-http://www.ota.ox.ac.uk/headers/2493.xml, http://auchinleck.nls.uk/, 
->>>>>>>>>>>>>>>>>>>> File 3
-http://www.ota.ox.ac.uk/headers/2493.xml, 
-<<<<<<<<<<<<<<<<<<<<
+
 
 jar:http://insaph.kcl.ac.uk/ala2004/redist/inscriptions/inscriptions.zip!/eAla001.xml, http://insaph.kcl.ac.uk/ala2004/,  
 
->>>>>>>>>>>>>>>>>>>> File 1
-http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.org/docs/software.htm,  
-http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
-
-http://nzetc.victoria.ac.nz/tei-source/JCB-004.xml, http://nzetc.victoria.ac.nz/tm/scholarly/tei-JCB-004.html,  
-http://nzetc.victoria.ac.nz/tei-source/RobMoko.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-RobMoko.html, 
-http://nzetc.victoria.ac.nz/tei-source/GorLaws.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-GorLaws.html,  
->>>>>>>>>>>>>>>>>>>> File 2
-http://teibyexample.org/docs/software.htm?cocoon-view=XML, http://teibyexample.org/docs/software.htm,  
-http://teibyexample.org/docs/about.htm?cocoon-view=XML, http://teibyexample.org/docs/about.htm,  
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML, http://teibyexample.org/modules/TBED00v00.htm,  
-
-http://nzetc.victoria.ac.nz/tei-source/JCB-004.xml, http://nzetc.victoria.ac.nz/tm/scholarly/tei-JCB-004.html,  
-http://nzetc.victoria.ac.nz/tei-source/RobMoko.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-RobMoko.html, 
-http://nzetc.victoria.ac.nz/tei-source/GorLaws.xml, http://nzetc.victoria.ac.nz//tm/scholarly/tei-GorLaws.html,  
->>>>>>>>>>>>>>>>>>>> File 3
 http://teibyexample.org/docs/software.htm?cocoon-view=XML, 
 http://teibyexample.org/docs/about.htm?cocoon-view=XML, 
 http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML,
@@ -887,6 +784,5 @@ http://teibyexample.org/modules/TBED06v00.htm?cocoon-view=XML,
 http://teibyexample.org/modules/TBED07v00.htm?cocoon-view=XML,
 http://teibyexample.org/modules/TBED08v00.htm?cocoon-view=XML,
 
-<<<<<<<<<<<<<<<<<<<<
 
 

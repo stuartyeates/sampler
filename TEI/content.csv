@@ -28,8 +28,6 @@ jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/ann_segmentation.xml
 jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/ann_morphosyntax.xml
 
-
-
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1b3.xml
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1d2.xml
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZMQpI35.xml
@@ -49,7 +47,6 @@ http://fleksem.klf.uw.edu.pl/~jsbien/poufne/olekb/download/xml/kde_long.tei.xml
 
 https://github.com/scholarslab/TeiDisplay/raw/feature/new/tests/mocks/winters-tale.xml
 
-http://lcweb2.loc.gov/gc/calbk/001/cwfgrep.___
 
 https://github.com/fcrepo/fcrepo/raw/master/fcrepo-server/src/main/resources/demo/demo-objects/foxml/local-server-demos/formatting-objects-demo/obj_demo_26.xml
 
@@ -182,7 +179,58 @@ http://purl.dlib.indiana.edu/iudl/inauthors/encodedtext/VAA2319, ,
 
 http://www.ibsen.uio.no/DRVIT_Vi|Vi4262III1.xml, , 
 
-http://bcgenesis.uvic.ca/getDoc.xml?id=V51008.scx, , 
+http://bcgenesis.uvic.ca/getDoc.xml?id=B58015.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B58016.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B58017.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B585TE03.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B587009.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B595TE02.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B717067.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=B717068.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V465HB01.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V465HB02.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V465HB03.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V54005.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V54006.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V54007.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V55123.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V55124.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V55125.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V56009.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V56010.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V56011.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V56027.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V56028.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V56029.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V565MI02.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V565MI03.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V565MI04.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V567013.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V567014.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V567015.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V57021.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V57022.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V57023.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V57034.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V57035.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V575AD01.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V575PA01.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V575WA01.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V576B01.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V576W01.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V577001A.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V577001.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V577014B.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V58001.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V58006.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V58007PR.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V58007.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V58015.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V58023.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V587003.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V66066.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V66067.scx
+http://bcgenesis.uvic.ca/getDoc.xml?id=V66068.scx
 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/blenmcaske.xml, , 
 http://digital.lib.ucdavis.edu/projects/bwrp/Works/bentepoems.xml, , 

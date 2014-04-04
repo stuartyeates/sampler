@@ -4,29 +4,9 @@ http://www.acmuller.net/download/ddb-sample.xml
 
 http://www.iula.upf.edu/corpus/D154CatHeader.html
 
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/text.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/header.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/ann_senses.xnl
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/ann_segmentation.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000003/ann_morphosyntax.xml
 
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000004/text.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000004/header.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000004/ann_senses.xnl
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000004/ann_segmentation.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000004/ann_morphosyntax.xml
 
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000005/text.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000005/header.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000005/ann_senses.xnl
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000005/ann_segmentation.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000005/ann_morphosyntax.xml
 
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/text.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/header.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/ann_senses.xnl
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/ann_segmentation.xml
-jar:http://zil.ipipan.waw.pl/gpwEcono?action=AttachFile&do=get&target=gpw-econo.zip!/gpw2004-tei/raport_nr_0000006/ann_morphosyntax.xml
 
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1b3.xml
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1d2.xml
@@ -88,16 +68,6 @@ https://www.clarin.dk/schemas/tei/TEIDKCLARIN-plain-tei.rng
 
 http://www.gutenberg.org/files/11400/11400-x/11400-x.xml
 
-jar:http://www.whitmanarchive.org/downloads/xxx.00271.xml.zip!/ppp.00271.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00011.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00012.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00013.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00014.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00015.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00016.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00017.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00018.xml
-jar:http://www.whitmanarchive.org/downloads/reviews.zip!/anc.00019.xml
 
 http://emblems.let.uu.nl/xml/he1601.xml
 http://emblems.let.uu.nl/xml/he1608.xml
@@ -364,7 +334,6 @@ https://github.com/srophe/manuscripts/raw/master/109.xml, ,
 https://github.com/srophe/manuscripts/raw/master/1110.xml, , 
 
 
-jar:http://digilab2.let.uniroma1.it/teiconf2013/wp-content/uploads/2013/09/book-abstracts.xml_.zip!/book-abstracts.xml, , 
 
 http://svn.sourceforge.jp/svnroot/classicalepwing/homeric/body/homeric.xml, , 
 http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/monier.xml.zip
@@ -430,7 +399,6 @@ https://ignis.googlecode.com/hg/newconv.xml, ,
 http://pastebin.com/raw.php?i=Jgkv8ZPp, , 
 http://pastebin.com/raw.php?i=GmD7wq8h, , 
 
-jar:http://prdownload.berlios.de/dare-biblmodule/DareBibliographyModuleV1Drupal8.zip!/DareBibliographyModuleV1Drupal8/darebibliography/bibliography.xml, , 
 
 https://github.com/BlueM/TEIShredder/raw/master/test/Sample-1.xml, , 
 
@@ -767,7 +735,6 @@ http://archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson
 
 
 
-jar:http://insaph.kcl.ac.uk/ala2004/redist/inscriptions/inscriptions.zip!/eAla001.xml, http://insaph.kcl.ac.uk/ala2004/,  
 
 http://teibyexample.org/docs/software.htm?cocoon-view=XML, 
 http://teibyexample.org/docs/about.htm?cocoon-view=XML, 

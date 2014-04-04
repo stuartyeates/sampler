@@ -5,9 +5,6 @@ http://www.acmuller.net/download/ddb-sample.xml
 http://www.iula.upf.edu/corpus/D154CatHeader.html
 
 
-
-
-
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1b3.xml
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1d2.xml
 http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZMQpI35.xml
@@ -489,7 +486,26 @@ http://svn.apache.org/repos/asf/forrest/trunk/examples/contentIntegration/src/do
 
 http://svn.apache.org/repos/asf/forrest/trunk/whiteboard/plugins/org.apache.forrest.plugin.input.tei/src/documentation/content/xdocs/sample/xdoc.xml, , 
 
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/CDescription.xml, , 
+
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/ADescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/CDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/DDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/EDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/ExDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/LDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/PDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/UDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/VDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJA.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJC.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJD.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJE.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJL.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJP.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJU.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJV.xml
+
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/CDescription.xml
 
 https://github.com/tingletech/xtf-dsc/raw/master/regress/CrossQuery/N-Stub/filesToID/ft1n39n7wg.xml, , 
 
@@ -637,25 +653,6 @@ https://raw.github.com/sebastianrahtz/tei-emacs/master/doc/emacstut/emacstut.xml
 https://raw.github.com/kermitt2/grobid/master/grobid-trainer/resources/dataset/affiliation-address/corpus/0803686a.affiliation.tei.xml, https://raw.github.com/kermitt2/grobid/master/grobid-trainer/resources/dataset/affiliation-address/corpus/0803686a.affiliation.tei.xml, 
 
 http://docsouth.unc.edu/southlit/poe/poe.xml, http://docsouth.unc.edu/southlit/poe/poe.html, 
-
-http://ota.oucs.ox.ac.uk/text/5730.xml, http://ota.oucs.ox.ac.uk/text/5730.html, 
-http://ota.oucs.ox.ac.uk/text/3001.xml, http://ota.oucs.ox.ac.uk/text/3001.html, 
-
-http://projects.oucs.ox.ac.uk/?style=raw, http://projects.oucs.ox.ac.uk/, 
-
-http://projects.oucs.ox.ac.uk/TEIISO/index.xml?ID=samples&style=raw, http://projects.oucs.ox.ac.uk/TEIISO/index.xml?ID=samples&style=raw,
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-1.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-1.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-2.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-2.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-3.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-3.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-4.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-4.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-5.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-5.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-6.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-6.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-7.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-7.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-8.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-8.xml, 
-http://projects.oucs.ox.ac.uk/TEIISO/Test2009-9.xml?style=raw, http://projects.oucs.ox.ac.uk/TEIISO/Test2009-9.xml, 
-http://projects.oucs.ox.ac.uk/ENRICH/index.xml?style=raw, http://projects.oucs.ox.ac.uk/ENRICH/index.xml,
-
-http://tei.oucs.ox.ac.uk/Talks/?style=raw, http://tei.oucs.ox.ac.uk/Talks/,
 
 http://sudamih.oucs.ox.ac.uk/databases_workshop.xml?style=raw, http://sudamih.oucs.ox.ac.uk/databases_workshop.xml,
 http://sudamih.oucs.ox.ac.uk/training_workshop.xml?style=raw, http://sudamih.oucs.ox.ac.uk/training_workshop.xml,

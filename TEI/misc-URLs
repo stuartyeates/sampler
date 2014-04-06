@@ -520,6 +520,12 @@ https://github.com/umd-mith/mishnah/raw/master/data/tei/ref-toharot-split.xml, ,
 https://github.com/DigitalResearchCentre/tc/raw/master/tei.xml, , 
 
 https://github.com/opensiddur/opensiddur/blob/master/code/tests/transforms/flatten/unflatten2.xml, , 
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Amos.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Chronicles_1.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Chronicles_2.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Daniel.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Deuteronomy.xml
+
 
 https://github.com/paregorios/apis-format/raw/master/files/columbia.apis.p179.xml, ,
 

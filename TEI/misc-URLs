@@ -533,9 +533,25 @@ https://github.com/bhb/ruby-spellcheck/raw/master/test-data/0643.xml, ,
 
 https://github.com/nkallen/perseus-greco-roman/raw/master/Plutarch/opensource/plut.comp.phil.flam_gk.xml, , 
 
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJEx.xml, , 
-
 https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsAug.15.1904.xml, , 
+https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/A041001.xml
+https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.odd.xml
+https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.rng
+
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsAug.15.1904.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsDec.18.1906.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsJan.19.1910.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsJun.16.1908.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsOct.30.1908.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsApr.7.1904.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsAug.5.1914.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsDec.22.1909.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsJan.5.1910.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsJune8.1914.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsMay.24.1911.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.23.1905.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.7.1913.xml
+
 
 https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-eng.xml, , 
 https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-ned.xml, , 

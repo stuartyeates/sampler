@@ -533,7 +533,6 @@ https://github.com/bhb/ruby-spellcheck/raw/master/test-data/0643.xml, ,
 
 https://github.com/nkallen/perseus-greco-roman/raw/master/Plutarch/opensource/plut.comp.phil.flam_gk.xml, , 
 
-https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsAug.15.1904.xml, , 
 https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/A041001.xml
 https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.odd.xml
 https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.rng
@@ -556,6 +555,22 @@ https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.7.1913.xml
 https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-eng.xml, , 
 https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-ned.xml, , 
 https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia.xml, , 
+
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Main.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Intermarginal.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Interlinear.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Interior.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Exterior.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Iliad/VenetusA-Iliad-5.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Iliad/VenetusA-Iliad-10.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/Esc-Upsilon-1-1/scholia/Esc-Upsilon-1-1-Scholia-10.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/Esc-Upsilon-1-1/Iliad/Esc-Upsilon-1-1-Iliad-10.xml
+
+
+https://github.com/HCMID/gen49/raw/master/texts/editions/Geneva49.xml
+https://github.com/HCMID/gen49/raw/master/texts/editions/JerChronicles-tert.xml
+
+
 
 https://github.com/SAA-SDT/eac-cpf-taglibrary/raw/master/tei_examplefiles_florence/EAC-CPF_TagLibrary_elementDescription_TEI_essai1.xml, , 
 

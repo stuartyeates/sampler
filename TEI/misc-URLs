@@ -718,11 +718,13 @@ https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0307.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref.xml
 
 
-
-https://github.com/tharman/SADE/raw/e5f7dee2959b3633fcea307d02528267357ddb3c/src/modules/text-viewer/resources/tei/stylesheet/rdf/rdf.odd, , 
+https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/crm.odd
+https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/dc.odd
+https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/rdf.odd
 
 https://github.com/chnm/anthologize/raw/master/tests/includes/test.xml, , 
 https://github.com/chnm/anthologize/raw/master/tests/includes/test.pretty.xml, , 
+
 
 https://github.com/markotom/tei_visualization/raw/master/test/fixtures/documents/PrideAndPrejudice.xml, , 
 

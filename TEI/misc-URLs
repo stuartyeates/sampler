@@ -664,12 +664,60 @@ https://github.com/bleierr/XSLT_Course/raw/master/Confessio_Ferguson.xml, ,
 
 https://github.com/TEIC/pureodd/raw/master/pureodd.odd, , 
 
-https://github.com/travisbrown/abbot/raw/master/src/odd/TEIAnalytics.odd, , 
+https://github.com/travisbrown/abbot/raw/master/src/odd/TEIsimple.odd 
+https://github.com/travisbrown/abbot/raw/master/src/odd/TEIAnalytics.odd 
+https://github.com/travisbrown/abbot/raw/master/src/dtd/TEIAnalytics.dtd
+https://github.com/travisbrown/abbot/raw/master/src/rnc/TEIAnalytics.rnc
+https://github.com/travisbrown/abbot/raw/master/src/rng/TEIAnalytics.rng
 
-https://github.com/travisbrown/abbot/raw/master/src/odd/TEIsimple.odd, , 
 
 https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-witness.odd, , 
 https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-reference.odd, , 
+https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-witness.odd
+https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-reference.odd
+https://github.com/umd-mith/mishnah/raw/master/data/odd/brown_odds.rnc
+https://github.com/umd-mith/mishnah/raw/master/data/odd/brown_odds.isosch
+
+https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001/P00001-0401.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001/P00001-0402.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001/P00001-0403.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/P00002.xml
+
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0101.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0102.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0103.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0104.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0105.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0106.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0107.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0108.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0109.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0110.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0111.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0201.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0202.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0203.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0204.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0205.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0206.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0207.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0208.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0209.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0210.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0211.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0212.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0301.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0302.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0303.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0304.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0305.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0306.xml
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0307.xml
+
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref.xml
+
+
 
 https://github.com/tharman/SADE/raw/e5f7dee2959b3633fcea307d02528267357ddb3c/src/modules/text-viewer/resources/tei/stylesheet/rdf/rdf.odd, , 
 

@@ -1,151 +1,219 @@
 
 
-http://www.acmuller.net/download/ddb-sample.xml
-
-http://www.iula.upf.edu/corpus/D154CatHeader.html
-
-
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1b3.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1d2.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZMQpI35.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1e10.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1a1.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM_ONB42.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM2d6.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM2b5.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM2v5.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM3e3.xml
-http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM_Glag1.xml
-
-http://slovo-aso.cl.bas.bg/xml/repertorium_lite.xml
-http://slovo-aso.cl.bas.bg/xml/repertorium.xml
-
-http://fleksem.klf.uw.edu.pl/~jsbien/poufne/olekb/download/xml/kde_long.tei.xml
-
-https://github.com/scholarslab/TeiDisplay/raw/feature/new/tests/mocks/winters-tale.xml
-
-
-https://github.com/fcrepo/fcrepo/raw/master/fcrepo-server/src/main/resources/demo/demo-objects/foxml/local-server-demos/formatting-objects-demo/obj_demo_26.xml
-
-https://tei2html.googlecode.com/svn/trunk/samples/Cole%20-%20Philippine%20Folk%20Tales/PhilippineFolkTales.xml
-https://tei2html.googlecode.com/svn/trunk/samples/Fansler%20-%20Filipino%20Popular%20Tales/FilipinoPopularTales.xml
-https://tei2html.googlecode.com/svn/trunk/samples/Kayme%20-%20Anting-Anting%20Stories/AntingAnting.xml
-https://tei2html.googlecode.com/svn/trunk/samples/hakespeare%20-%20Twee%20Edellieden%20van%20Verona/WS-03-EdelliedenVerona.xml
-
-http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLA-3-b-t.xml
-http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLE-1-t.xml
-http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLF-1-t.xml
-http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLG-112-t.xml
-http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLA-3-b-t.xml
-
-
-http://xml-biblio.sourceforge.net/examples_ver.2.xml
-
-http://www.library.umass.edu/spcoll/digital/antislavery/016.xml
-http://www.library.umass.edu/spcoll/digital/antislavery/016v2.xml
 
 
 
-http://catalog.ldc.upenn.edu/desc/addenda/LDC2005T35_let.anc
-
-http://ccat.sas.upenn.edu/gopher/text/religion/biblical/pseudep/ParaleipomenaJeremiou.English
-http://ccat.sas.upenn.edu/gopher/text/religion/biblical/pseudep/ParaleipomenaJeremiou.Greek
-
-http://quads.esds.ac.uk/projects/esds_odd.xml
-
-http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/xml/ab-813.xml
-
-http://rae2007.cch.kcl.ac.uk/epidoc/www.stoa.org/epidoc/gl/5/documentstructureintro.xml
-
-http://www.hab.de/files/europeana-regia/ODD/v0.1/schemaSpec.xml
-http://www.hab.de/files/europeana-regia/ODD/europeana-regia_ODD.xml
-http://www.hab.de/files/europeana-regia/ODD/europeana-regia.xml
-
-https://www.clarin.dk/schemas/tei/TEIDKCLARIN-plain-tei.rng
-
-http://www.gutenberg.org/files/11400/11400-x/11400-x.xml
-
-
-http://emblems.let.uu.nl/xml/he1601.xml
-http://emblems.let.uu.nl/xml/he1608.xml
-http://emblems.let.uu.nl/xml/v1608.xml
-http://emblems.let.uu.nl/xml/va1612.xml
-http://emblems.let.uu.nl/xml/lu1671.xml
-http://emblems.let.uu.nl/xml/f1691.xml
-http://emblems.let.uu.nl/xml/ho1709.xml
-http://emblems.let.uu.nl/xml/su1724.xml
-http://emblems.let.uu.nl/xml/he1601.dtd
-http://emblems.let.uu.nl/xml/he1608.dtd
-http://emblems.let.uu.nl/xml/v1608.dtd
-http://emblems.let.uu.nl/xml/va1612.dtd
-http://emblems.let.uu.nl/xml/lu1671.dtd
-http://emblems.let.uu.nl/xml/f1691.dtd
-http://emblems.let.uu.nl/xml/ho1709.dtd
-http://emblems.let.uu.nl/xml/su1724.dtd
-http://emblems.let.uu.nl/xml/bibliography.xml
-
-
-http://livingstone.library.ucla.edu/1871diary/documents/1871.xml, , 
-
-http://greenhouse.economics.utah.edu/readings/GPZ2008SA.tei, , 
-
-http://old.diglib.org/standards/TEIguid.xml, , 
 
 
 
-http://nl.ijs.si/e-zrc/bs/tei/bs.xml, , 
-http://nl.ijs.si/e-zrc/bs/tei/bsBI.xml, , 
-
-http://nl.ijs.si/e-zrc/bs/tei/tei2.dtd, , 
-http://nl.ijs.si/e-zrc/bs/tei/tei2-ext.dtd, ,
-
-http://helmer.hit.uib.no/xml/TEI/Dikt.xml, , 
-
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A00, , 
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A01, , 
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A02, , 
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A03, , 
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A04, , 
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A05, ,
-http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A06, , 
-
-
-http://www.blackmesatech.com/2009/10/thutmose/L1/user-supplied-text.xml, , 
-
-http://www.natcorp.ox.ac.uk/archive/vault/bncx32.txt, , 
 
 
 
-http://www.wwp.brown.edu/outreach/seminars/cust_2010-08/demos/exhibits.xml, , 
 
-http://www.ucc.ie/dtds/tei/xml/teixlite.dtd, , 
-http://www.ucc.ie/dtds/tei/xml/teixml.dtd, , 
 
-http://mith.umd.edu/eada/eada.dtd, , 
-http://mith.umd.edu/eada/xml/manzano_life.xml, , 
-http://mith.umd.edu/eada/xml/yeardley_narrative.xml, , 
-http://mith.umd.edu/eada/xml/titucusi_instruccion1.xml.xml, , 
-http://mith.umd.edu/eada/xml/titucusi_instruccion.xml.xml, , 
 
-http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/ie, ,
-http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/tei_ms.dtd, , 
-http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/template.xml, , 
 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels/text_structure.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/text.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_segmentation.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_morphosyntax.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_senses.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_words.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_named.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_groups.xml, , 
-http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/header.xml, , 
 
-https://github.com/iulibdcs/tei_text/raw/master/vwwp_tei/VAB7010.xml, , 
-http://purl.dlib.indiana.edu/iudl/inauthors/encodedtext/VAA2319, , 
 
-http://www.ibsen.uio.no/DRVIT_Vi|Vi4262III1.xml, , 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson.xml
+http://archimedespalimpsest.net/Data/0000-100v/0000-100v_Arch53r_TEI_Netz-Wilson.xml
+http://archimedespalimpsest.net/Data/0000-171r/0000-171r_Arch68v_TEI_Netz-Wilson.xml
+http://archimedespalimpsest.net/Data/0000-171v/0000-171v_Arch68r_TEI_Netz-Wilson.xml
 http://bcgenesis.uvic.ca/getDoc.xml?id=B58015.scx
 http://bcgenesis.uvic.ca/getDoc.xml?id=B58016.scx
 http://bcgenesis.uvic.ca/getDoc.xml?id=B58017.scx
@@ -198,223 +266,326 @@ http://bcgenesis.uvic.ca/getDoc.xml?id=V587003.scx
 http://bcgenesis.uvic.ca/getDoc.xml?id=V66066.scx
 http://bcgenesis.uvic.ca/getDoc.xml?id=V66067.scx
 http://bcgenesis.uvic.ca/getDoc.xml?id=V66068.scx
-
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/blenmcaske.xml, , 
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/bentepoems.xml, , 
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/ladyavarie.xml, ,
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/iriswmagic.xml, , 
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/beveebeeco.xml, ,
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/cookemelai.xml, , 
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/cowpforigi.xml, , 
-http://digital.lib.ucdavis.edu/projects/bwrp/Works/curtmclass.xml, ,
-
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-01, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-02, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-03, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-04, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-05, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-06, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-07, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-08, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-09, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-10, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-11, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-12, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-13, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-14, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-15, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-16, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-17, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-21, , LARGE
-http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-22, , LARGE
-
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief02vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief03vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief04vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief05vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief06vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief07vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief08vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief09vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief10vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief11vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief12vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief13vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief14vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief15vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief16vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief17vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief17vonBuchanBeausobre.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief001ChamissoandeLaFoye.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief002ChamissoandeLaFoye.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Reinbold_Literaturbrief.xml, , 
-http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml, , 
-
-http://www.steinheim-institut.de/cgi-bin/epixml?xfunction=Ins&xsel=bay&xinv=0001, , 
-
-http://irt.kcl.ac.uk/irt2009/redist/inscr/P5/IRT256a.xml, , 
-http://irt.kcl.ac.uk/irt2009/IRT001.xml, , 
-http://irt.kcl.ac.uk/irt2009/IRT002.xml, , 
-http://irt.kcl.ac.uk/irt2009/IRT003.xml, , 
-http://irt.kcl.ac.uk/irt2009/IRT004.xml, , 
-http://irt.kcl.ac.uk/irt2009/IRT005.xml, , 
-http://irt.kcl.ac.uk/irt2009/redist/inscr/tei-epidoc.dtd, , 
-
-http://infomotions.com/alex2/authors/burroughs-edgar/burroughs-beasts-699/burroughs-beasts-699.xml, , 
-http://infomotions.com/alex2/authors/emerson-ralph/emerson-young-736/emerson-young-736.xml, , 
-http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cash-685/alger_jr-cash-685.xml, , 
-http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cast-690/alger_jr-cast-690.xml, , 
-http://infomotions.com/alex2/authors/austen-jane/austen-sense-723/austen-sense-723.xml, , 
-http://infomotions.com/alex2/authors/austen-jane/austen-northanger-726/austen-northanger-726.xml, , 
-http://infomotions.com/alex2/authors/bacon-francis/bacon-new-633/bacon-new-633.xml, , 
-http://infomotions.com/alex2/authors/bacon-francis/bacon-essays-684/bacon-essays-684.xml, , 
-http://infomotions.com/alex2/authors/dickens-charles/dickens-david-748/dickens-david-748.xml, , 
-http://infomotions.com/alex2/authors/poe-edgar/poe-cask-641/poe-cask-641.xml, , 
-http://infomotions.com/alex2/authors/poe-edgar/poe-angel-644/poe-angel-644.xml, , 
-http://infomotions.com/alex2/authors/poe-edgar/poe-balloon-683/poe-balloon-683.xml, , 
-http://infomotions.com/alex2/authors/plato/plato-critias-676/plato-critias-676.xml, , 
-http://infomotions.com/alex2/authors/plato/plato-charmides-645/plato-charmides-645.xml, , 
-http://infomotions.com/alex2/authors/plato/plato-cratylus-686/plato-cratylus-686.xml, , 
-
-http://docsouth.unc.edu/neh/mountain/mountain.xml, , 
-http://docsouth.unc.edu/nc/wreck/wreck.xml, , 
-http://docsouth.unc.edu/neh/heth/heth.xml, , 
-http://docsouth.unc.edu/sohp/H-0067/H-0067.xml,  , 
-http://docsouth.unc.edu/church/aump/aump.xml, ,
-http://docsouth.unc.edu/unc/uncbk1027/uncbk1027.xml, , 
-http://docsouth.unc.edu/fpn/andrews/andrews.xml, ,
-http://docsouth.unc.edu/southlit/glasgowbattle/battlegr.xml, , 
-http://docsouth.unc.edu/neh/aaron/aaron.xml, , 
-http://docsouth.unc.edu/sohp/K-0246/K-0246.xml, , 
-http://docsouth.unc.edu/imls/agnew/agnew.xml, ,
-
-https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc.xml, , 
-https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc2.xml, , 
-https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/autumn.xml, , 
-https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_facs.xml, ,
-https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_frag.xml, , 
-https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_works.xml, ,
-
-
-https://github.com/srophe/places/raw/master/xml/1005.xml, , 
-https://github.com/srophe/places/raw/master/xml/1080.xml, , 
-https://github.com/srophe/places/raw/master/xml/1085.xml, , 
-https://github.com/srophe/places/raw/master/xml/1086.xml, , 
-https://github.com/srophe/places/raw/master/xml/1087.xml, , 
-https://github.com/srophe/places/raw/master/xml/1088.xml, , 
-https://github.com/srophe/places/raw/master/xml/Examples/658.xml, ,
-https://github.com/srophe/places/raw/master/xml/Examples/78.xml, ,
-
-https://github.com/clioweb/travails/raw/master/docs/tei/chiens/CH.AM46.xml, , 
-https://github.com/clioweb/travails/raw/master/docs/tei/tei_ces.xml, , 
-https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch46.xml, ,
-https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch56.xml , ,
-https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76.xml, , 
-https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76_x.xml, , 
-https://github.com/clioweb/travails/raw/master/docs/tei/chiens/chMaster.xml, , 
-
-https://github.com/srophe/manuscripts/raw/master/HMML%20TEI%20Crosswalk.xml, ,
-https://github.com/srophe/manuscripts/raw/master/1.xml, ,
-https://github.com/srophe/manuscripts/raw/master/100.xml, ,
-https://github.com/srophe/manuscripts/raw/master/1002.xml, ,
-https://github.com/srophe/manuscripts/raw/master/1003.xml, ,
-https://github.com/srophe/manuscripts/raw/master/1004.xml, , 
-https://github.com/srophe/manuscripts/raw/master/1005.xml, , 
-https://github.com/srophe/manuscripts/raw/master/103.xml, , 
-https://github.com/srophe/manuscripts/raw/master/104.xml, , 
-https://github.com/srophe/manuscripts/raw/master/105.xml, , 
-https://github.com/srophe/manuscripts/raw/master/1053.xml, , 
-https://github.com/srophe/manuscripts/raw/master/106.xml, , 
-https://github.com/srophe/manuscripts/raw/master/109.xml, , 
-https://github.com/srophe/manuscripts/raw/master/1110.xml, , 
-
-
-
-http://svn.sourceforge.jp/svnroot/classicalepwing/homeric/body/homeric.xml, , 
-http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/monier.xml.zip
-http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/MWHeader.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/eld/body/lewis2.xml
-
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Ac.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Amic.en.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Amic.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Att.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Brut.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Div.en.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Div.xml
-
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.en.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.en.xml
-http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.xml
-
-
-letters.mozartways.com/index.php?lang=eng&letter=9&bd=209&xmlview=on, , 
-
-https://github.com/kpwebb/MarkupEditor/raw/master/MarkupPrototype/xml/dryden.xml, ,
-https://github.com/kpwebb/MarkupEditor/raw/master/MarkupPrototype/xml/flippy.xml, , 
-https://github.com/kpwebb/MarkupEditor/raw/master/MarkupPrototype/xml/markup1.xml, , 
-
-http://tei.oucs.ox.ac.uk/Talks/2011-02-aix/talk-hdr.xml?style=raw, ,
-
-https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP190.xml, ,
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEI121.xml, , 
-
-https://penitentials.googlecode.com/svn/trunk/OEP/data/BX8558.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP201.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP265.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/COTTIBA3.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/JUNIUS.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/LAUD482.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TCTH482.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TCTH8558.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEH201.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC121.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC190.xml, , 
-https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC482.xml, , 
-
-
-https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/exercise.xml, , 
-https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/gentleintro.xml, , 
-https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/TEI.xml, , 
-
-
-https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.xml, , 
-https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.dtd, ,
-https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK-partxml.xml, ,
-https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-2.xml, , 
-https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.xml
-https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-partxml.xml
+http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza001eng.xml
+http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza003eng.xml
+http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza022eng.xml
+http://catalog.ldc.upenn.edu/desc/addenda/LDC2005T35_let.anc
+http://ccat.sas.upenn.edu/gopher/text/religion/biblical/pseudep/ParaleipomenaJeremiou.English
+http://ccat.sas.upenn.edu/gopher/text/religion/biblical/pseudep/ParaleipomenaJeremiou.Greek
+http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/xml/ab-813.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/bentepoems.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/beveebeeco.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/blenmcaske.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/cookemelai.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/cowpforigi.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/curtmclass.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/iriswmagic.xml
+http://digital.lib.ucdavis.edu/projects/bwrp/Works/ladyavarie.xml
+http://doane-journal1852.googlecode.com/svn/trunk/Doane-Journal.xml
+http://docsouth.unc.edu/church/aump/aump.xml
+http://docsouth.unc.edu/fpn/andrews/andrews.xml
+http://docsouth.unc.edu/imls/agnew/agnew.xml
+http://docsouth.unc.edu/nc/wreck/wreck.xml
+http://docsouth.unc.edu/neh/aaron/aaron.xml
+http://docsouth.unc.edu/neh/heth/heth.xml
+http://docsouth.unc.edu/neh/mountain/mountain.xml
+http://docsouth.unc.edu/sohp/H-0067/H-0067.xml
+http://docsouth.unc.edu/sohp/K-0246/K-0246.xml
+http://docsouth.unc.edu/southlit/glasgowbattle/battlegr.xml
+http://docsouth.unc.edu/southlit/poe/poe.xml
+http://docsouth.unc.edu/unc/uncbk1027/uncbk1027.xml
+http://durito.cvs.sourceforge.net/viewvc/durito/durito/XMLDocs/PHO-Z_1_68.xml?revision=1.1
+http://eidcsr.oucs.ox.ac.uk/background.xml?style=raw
+http://eidcsr.oucs.ox.ac.uk/contact.xml?style=raw
+http://eidcsr.oucs.ox.ac.uk/documents.xml?style=raw
+http://eidcsr.oucs.ox.ac.uk/methodology.xml?style=raw
+http://eidcsr.oucs.ox.ac.uk/objectives.xml?style=raw
+http://eidcsr.oucs.ox.ac.uk/?style=raw
+http://eidcsr.oucs.ox.ac.uk/team.xml?style=raw
+http://emblems.let.uu.nl/xml/bibliography.xml
+http://emblems.let.uu.nl/xml/f1691.dtd
+http://emblems.let.uu.nl/xml/f1691.xml
+http://emblems.let.uu.nl/xml/he1601.dtd
+http://emblems.let.uu.nl/xml/he1601.xml
+http://emblems.let.uu.nl/xml/he1608.dtd
+http://emblems.let.uu.nl/xml/he1608.xml
+http://emblems.let.uu.nl/xml/ho1709.dtd
+http://emblems.let.uu.nl/xml/ho1709.xml
+http://emblems.let.uu.nl/xml/lu1671.dtd
+http://emblems.let.uu.nl/xml/lu1671.xml
+http://emblems.let.uu.nl/xml/su1724.dtd
+http://emblems.let.uu.nl/xml/su1724.xml
+http://emblems.let.uu.nl/xml/v1608.dtd
+http://emblems.let.uu.nl/xml/v1608.xml
+http://emblems.let.uu.nl/xml/va1612.dtd
+http://emblems.let.uu.nl/xml/va1612.xml
+http://fleksem.klf.uw.edu.pl/~jsbien/poufne/olekb/download/xml/kde_long.tei.xml
+http://greenhouse.economics.utah.edu/readings/GPZ2008SA.tei
+http://helmer.hit.uib.no/xml/TEI/Dikt.xml
+http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cash-685/alger_jr-cash-685.xml
+http://infomotions.com/alex2/authors/alger-horatio/alger_jr-cast-690/alger_jr-cast-690.xml
+http://infomotions.com/alex2/authors/austen-jane/austen-northanger-726/austen-northanger-726.xml
+http://infomotions.com/alex2/authors/austen-jane/austen-sense-723/austen-sense-723.xml
+http://infomotions.com/alex2/authors/bacon-francis/bacon-essays-684/bacon-essays-684.xml
+http://infomotions.com/alex2/authors/bacon-francis/bacon-new-633/bacon-new-633.xml
+http://infomotions.com/alex2/authors/burroughs-edgar/burroughs-beasts-699/burroughs-beasts-699.xml
+http://infomotions.com/alex2/authors/dickens-charles/dickens-david-748/dickens-david-748.xml
+http://infomotions.com/alex2/authors/emerson-ralph/emerson-young-736/emerson-young-736.xml
+http://infomotions.com/alex2/authors/plato/plato-charmides-645/plato-charmides-645.xml
+http://infomotions.com/alex2/authors/plato/plato-cratylus-686/plato-cratylus-686.xml
+http://infomotions.com/alex2/authors/plato/plato-critias-676/plato-critias-676.xml
+http://infomotions.com/alex2/authors/poe-edgar/poe-angel-644/poe-angel-644.xml
+http://infomotions.com/alex2/authors/poe-edgar/poe-balloon-683/poe-balloon-683.xml
+http://infomotions.com/alex2/authors/poe-edgar/poe-cask-641/poe-cask-641.xml
+http://irt.kcl.ac.uk/irt2009/IRT001.xml
+http://irt.kcl.ac.uk/irt2009/IRT001.xml
+http://irt.kcl.ac.uk/irt2009/IRT002.xml
+http://irt.kcl.ac.uk/irt2009/IRT002.xml
+http://irt.kcl.ac.uk/irt2009/IRT003.xml
+http://irt.kcl.ac.uk/irt2009/IRT004.xml
+http://irt.kcl.ac.uk/irt2009/IRT005.xml
+http://irt.kcl.ac.uk/irt2009/IRT100.xml
+http://irt.kcl.ac.uk/irt2009/IRT101.xml
+http://irt.kcl.ac.uk/irt2009/redist/inscr/P5/IRT256a.xml
+http://irt.kcl.ac.uk/irt2009/redist/inscr/tei-epidoc.dtd
+http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLA-3-b-t.xml
+http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLA-3-b-t.xml
+http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLE-1-t.xml
+http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLF-1-t.xml
+http://leaders.cvs.sourceforge.net/viewvc/leaders/toolkit/archive/docs/teidocs/GB0103ORWELLG-112-t.xml
+http://livingstone.library.ucla.edu/1871diary/documents/1871.xml
+http://lucius-c-smith-diaries.googlecode.com/svn/trunk/LCSmith-Diaries.xml
+http://menota.org/eksempler/AM_242_fol.xml
+http://menota.org/eksempler/Holm_perg_6_fol.xml
+http://mith.umd.edu/eada/eada.dtd
+http://mith.umd.edu/eada/xml/manzano_life.xml
+http://mith.umd.edu/eada/xml/titucusi_instruccion1.xml.xml
+http://mith.umd.edu/eada/xml/titucusi_instruccion.xml.xml
+http://mith.umd.edu/eada/xml/yeardley_narrative.xml
+http://music-encoding.googlecode.com/svn/branches/MEI_dev/customizations/mei-all_anyStart.xml
+http://nl.ijs.si/e-zrc/bs/tei/bsBI.xml
+http://nl.ijs.si/e-zrc/bs/tei/bs.xml
+http://nl.ijs.si/e-zrc/bs/tei/tei2.dtd
+http://nl.ijs.si/e-zrc/bs/tei/tei2-ext.dtd
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_groups.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_morphosyntax.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_named.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_segmentation.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_senses.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/ann_words.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/header.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels_1M/text.xml
+http://nlp.ipipan.waw.pl/TEI4NKJP/example_all_levels/text_structure.xml
+http://old.diglib.org/standards/TEIguid.xml
+http://pastebin.com/raw.php?i=GmD7wq8h
+http://pastebin.com/raw.php?i=Jgkv8ZPp
+http://phantoms.googlecode.com/svn/Phantoms/WebContent/data/TEI/cerami/L'uovo%20di%20Colombo/l_uovo_di_colombo_A1_messaggero.xml
+http://phildict.googlecode.com/svn/trunk/Data/Wolff/WCED-A.tei
+http://purl.dlib.indiana.edu/iudl/inauthors/encodedtext/VAA2319
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-01
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-02
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-03
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-04
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-05
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-06
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-07
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-08
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-09
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-10
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-11
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-12
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-13
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-14
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-15
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-16
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-17
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-21
+http://purl.dlib.indiana.edu/iudl/law/brevier/encodedtext/VAA8558-22
+http://quads.esds.ac.uk/projects/esds_odd.xml
+http://quads.esds.ac.uk/projects/esds_odd.xml
+http://rae2007.cch.kcl.ac.uk/epidoc/www.stoa.org/epidoc/gl/5/documentstructureintro.xml
+https://berkeley-prosopography-services.googlecode.com/svn/trunk/data/AndreaSeri_teiCorpus-2011-04-01.xml
+https://dkpro-core-asl.googlecode.com/svn-history/r1299/de.tudarmstadt.ukp.dkpro.core-asl/trunk/de.tudarmstadt.ukp.dkpro.core.io.tei-asl/src/test/resources/brown_tei/a01.xml
+https://doane-journal1852.googlecode.com/svn/trunk/Doane-Journal-Custom.odd
+https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-2.xml
 https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.dtd
-https://documents-structures.googlecode.com/svn/site/corpus/rec_xslt.tag-JK-masc-fem.xml, ,
-
-https://ignis.googlecode.com/hg/new.xml, , 
-https://ignis.googlecode.com/hg/newconv.xml, , 
-
-http://pastebin.com/raw.php?i=Jgkv8ZPp, , 
-http://pastebin.com/raw.php?i=GmD7wq8h, , 
-
-
-https://github.com/BlueM/TEIShredder/raw/master/test/Sample-1.xml, , 
-
-https://github.com/ericleasemorgan/epub/raw/master/dracula.xml, , 
-
-https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/poem_template.xml, , 
-https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/letter_template.xml, , 
-
-https://github.com/jpeak5/tei-examples/raw/master/1-TEI.xml, , 
-https://github.com/jpeak5/tei-examples/raw/master/2-TEI.xml, ,
-https://github.com/jpeak5/tei-examples/raw/master/3-TEI.xml, , 
-https://github.com/jpeak5/tei-examples/raw/master/4-TEI.xml, ,
-https://github.com/jpeak5/tei-examples/raw/master/1-teiHeader.xml, , 
-
-https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml, ,
-
-https://github.com/paddymcall/SARIT/raw/master/00-SARIT-TEI-header-template.xml, ,
-https://github.com/paddymcall/SARIT/raw/master/astangahrdayasamhita.xml
+https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK-partxml.xml
+https://documents-structures.googlecode.com/svn/site/corpus/AF_corpus_070703-JK.xml
+https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.dtd
+https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK-partxml.xml
+https://documents-structures.googlecode.com/svn/site/corpus/candide-annotated-2003-v4-JK.xml
+https://documents-structures.googlecode.com/svn/site/corpus/rec_xslt.tag-JK-masc-fem.xml
+https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/exercise.xml
+https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/gentleintro.xml
+https://exchangerxml.googlecode.com/svn/trunk/extensions/TEI-P4/TEI.xml
+https://faulkneratvirginia.googlecode.com/svn/trunk/cocoon/data/tei/wfaudio22_1_2clip.xml
+https://github.com/bhb/ruby-spellcheck/raw/master/test-data/0643.xml
+https://github.com/BibalexIRILS/WAMCP/raw/master/WAMCP/WebContent/XML/msDescBlank.xml
+https://github.com/bleierr/XSLT_Course/raw/master/Confessio_Ferguson.xml
+https://github.com/BlueM/TEIShredder/raw/master/test/Sample-1.xml
+https://github.com/BlueM/TEIShredder/raw/master/test/Sample-1.xml
+https://github.com/chnm/anthologize/raw/master/tests/includes/test.pretty.xml
+https://github.com/chnm/anthologize/raw/master/tests/includes/test.xml
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch46.xml
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch56.xml 
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76.xml
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/ch76_x.xml
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/CH.AM46.xml
+https://github.com/clioweb/travails/raw/master/docs/tei/chiens/chMaster.xml
+https://github.com/clioweb/travails/raw/master/docs/tei/correspondence/Ce-Br(43-09-22).xml
+https://github.com/clioweb/travails/raw/master/docs/tei/tei_ces.xml
+https://github.com/dhamma/tipitaka/raw/master/cst4xml-devanagari/e1213n.nrf.xml
+https://github.com/DigitalResearchCentre/tc/raw/master/tei.xml
+https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/BlackCrook.xml
+https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/WizardOfOz1903.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_biblio.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_common.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_diaries.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_letters.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_news.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_persons.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_var.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_works.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060001.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060002.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060003.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041401.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041404.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041425.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0002xx/A000213.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0010xx/A001002.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0020xx/A002068.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0300xx/A030081.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0300xx/A030313.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0302xx/A030241.xml
+https://github.com/emory-libraries-beckctr/belfast/edit/master/xml/simmons1.xml
+https://github.com/ericleasemorgan/epub/raw/master/dracula.xml
+https://github.com/eXist-db/matumi/raw/master/encyclopedias/persons.xml
+https://github.com/faustedition/app/raw/master/faust-schema/src/main/odd/faust-tei.xml
+https://github.com/faustedition/app/raw/master/faust/src/test/resources/de/faustedition/tei/faust-tei-sample.xml 
+https://github.com/fcrepo/fcrepo/raw/master/fcrepo-server/src/main/resources/demo/demo-objects/foxml/local-server-demos/formatting-objects-demo/obj_demo_26.xml
+https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml
+https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml
+https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v3.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test1.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test2.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test3.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test4.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test5.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test1.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test2.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test3.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test4.xml
+https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test5.xml
+https://github.com/hcayless/tei-string-range/raw/master/bgu.1.116.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/Eutocius-Measurement-Circle-cb8.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/Eutocius-SC-cb8.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/Measurement-Circle-cb8.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/SphereandCylinder-cb8.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-cattle-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-consph-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-dimcirc-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-eqplan-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-fb-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-lemm-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-method-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-psamm-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-quadparab-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-sc-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-spirals-eng.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/palimpsest/FloatingBodies-p5.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/palimpsest/Measurement-Circle-p5.xml
+https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/palimpsest/SphereandCylinder-ap-1.xml
+https://github.com/HCMID/gen49/raw/master/texts/editions/Geneva49.xml
+https://github.com/HCMID/gen49/raw/master/texts/editions/JerChronicles-tert.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/Esc-Upsilon-1-1/Iliad/Esc-Upsilon-1-1-Iliad-10.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/Esc-Upsilon-1-1/scholia/Esc-Upsilon-1-1-Scholia-10.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Iliad/VenetusA-Iliad-10.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Iliad/VenetusA-Iliad-5.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Exterior.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Interior.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Interlinear.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Intermarginal.xml
+https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Main.xml
+https://github.com/iulibdcs/tei_text/raw/master/vwwp_tei/VAB7010.xml
+https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/letter_template.xml
+https://github.com/jchartrand/CWRCEditor/raw/master/resources/xml/poem_template.xml
+https://github.com/jpeak5/tei-examples/raw/master/1-teiHeader.xml
+https://github.com/jpeak5/tei-examples/raw/master/1-TEI.xml
+https://github.com/jpeak5/tei-examples/raw/master/2-TEI.xml
+https://github.com/jpeak5/tei-examples/raw/master/3-TEI.xml
+https://github.com/jpeak5/tei-examples/raw/master/4-TEI.xml
+https://github.com/kpwebb/MarkupEditor/raw/master/MarkupPrototype/xml/dryden.xml
+https://github.com/kpwebb/MarkupEditor/raw/master/MarkupPrototype/xml/flippy.xml
+https://github.com/kpwebb/MarkupEditor/raw/master/MarkupPrototype/xml/markup1.xml
+https://github.com/mangalam-research/salve/blob/develop/test/tei/simplified.rng
+https://github.com/mangalam-research/salve/raw/develop/test/tei/myTEI.rnc
+https://github.com/mangalam-research/salve/raw/develop/test/tei/myTEI.rng
+https://github.com/mangalam-research/salve/raw/develop/test/tei/to_parse.xml
+https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/myTEI.rnc
+https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/myTEI.rng
+https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/myTEI.xml
+https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/to_parse.xml
+https://github.com/mangalam-research/salve/raw/master/test/tei/to_parse.xml
+https://github.com/markotom/tei_visualization/raw/master/test/fixtures/documents/PrideAndPrejudice.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/ADescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/CDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/DDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/EDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/ExDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/LDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/PDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJA.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJC.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJD.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJE.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJL.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJP.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJU.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJV.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/UDescription.xml
+https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/VDescription.xml
+https://github.com/MichaelBroschinsky/Templates/raw/master/TEI/Book.tei-full.xml
+https://github.com/mikekestemont/Hadewijch/blob/master/Letters_MSA.xml?raw=true
+https://github.com/mromanello/raw/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml
+https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-eng.xml
+https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-ned.xml
+https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia.xml
+https://github.com/nkallen/perseus-greco-roman/raw/master/Plutarch/opensource/plut.comp.phil.flam_gk.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/base2-tm.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/base.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/descriptions.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/frontmatter.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/mcgann.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/notes.xml
+https://github.com/nowviskie/Swinburne/raw/master/xml/pubhistory.xml
+https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/A041001.xml
+https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.odd.xml
+https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.rng
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsApr.7.1904.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsAug.15.1904.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsAug.5.1914.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsDec.18.1906.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsDec.22.1909.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsJan.19.1910.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsJan.5.1910.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsJun.16.1908.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsJune8.1914.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsMay.24.1911.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.23.1905.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.7.1913.xml
+https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsOct.30.1908.xml
+https://github.com/opensiddur/opensiddur/blob/master/code/tests/transforms/flatten/unflatten2.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Amos.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Chronicles_1.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Chronicles_2.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Daniel.xml
+https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Deuteronomy.xml
+https://github.com/paddymcall/SARIT/raw/master/00-SARIT-TEI-header-template.xml
 https://github.com/paddymcall/SARIT/raw/master/arunadatta-sarvangasundara.xml
+https://github.com/paddymcall/SARIT/raw/master/astangahrdayasamhita.xml
 https://github.com/paddymcall/SARIT/raw/master/astangasangraha.xml
 https://github.com/paddymcall/SARIT/raw/master/astavakragita.xml
 https://github.com/paddymcall/SARIT/raw/master/ayurvedasutram.xml
@@ -431,651 +602,431 @@ https://github.com/paddymcall/SARIT/raw/master/naradasmrti.xml
 https://github.com/paddymcall/SARIT/raw/master/patanjalayogasastra.xml
 https://github.com/paddymcall/SARIT/raw/master/prasastapada-padarthadharmasangraha.xml
 https://github.com/paddymcall/SARIT/raw/master/pravarasena-setubandha.xml
-https://github.com/paddymcall/SARIT/raw/master/ratnakIrti-nibandhAvali.xml
 https://github.com/paddymcall/SARIT/raw/master/ratna%C5%9Br%C4%AB%E1%B9%AD%C4%ABk%C4%81-dn.xml
 https://github.com/paddymcall/SARIT/raw/master/ratna%C5%9Br%C4%AB%E1%B9%AD%C4%ABk%C4%81-roman.xml
+https://github.com/paddymcall/SARIT/raw/master/ratnakIrti-nibandhAvali.xml
 https://github.com/paddymcall/SARIT/raw/master/sarasvatikanthabharana-dn.xml
 https://github.com/paddymcall/SARIT/raw/master/sarasvatikanthabharana-roman.xml
 https://github.com/paddymcall/SARIT/raw/master/vacaspati-tattvavaisaradi.xml
 https://github.com/paddymcall/SARIT/raw/master/vagbhata-rasaratnasamuccaya-comms.xml
 https://github.com/paddymcall/SARIT/raw/master/vatsyayana-nyayabhasya.xml
-
-
-https://github.com/steko/epidoc/raw/master/P5%20conversion/test%20XML-p5/IRT087.xml
-https://github.com/steko/epidoc/raw/master/P5%20conversion/schema/exp-epidoc.xml
-https://github.com/steko/epidoc/raw/master/schema/tei-epidoc.xml
-
-https://github.com/steko/epidoc/example-p5-xslt/global-parameters.xml
-https://github.com/steko/epidoc/P5%20conversion/test%20XML-p5/IRT087.xml
-https://github.com/steko/epidoc/P5%20conversion/schema/USEP/2009-03-06P5template.xml
-https://github.com/steko/epidoc/P5%20conversion/schema/USEP/USEp-P5-mock-up.xml
-https://github.com/steko/epidoc/P5%20conversion/schema/exp-epidoc.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/127r-130v/127r-130v_Arch11r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/177r-172v/177r-172v_Arch69r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/065v-072r/065v-072r_Arch18v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/070r-067v/070r-067v_Arch12r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/056r-049v/056r-049v_Arch04r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/055v-050r/055v-050r_Arch05v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/123r-118v/123r-118v_Arch61r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/059v-062r/059v-062r_Arch31v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/031r-032v/031r-032v_Arch44r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/137r-136v/137r-136v_Hype01r_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/093v-092r/093v-092r_Arch65v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/166v-167r/166v-167r_Arch24v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/149r-154v/149r-154v_Arch57r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/002r-001v/002r-001v_Arch13r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/110v-105r/110v-105r_Arch27v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/017r-016v/017r-016v_Arch07r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/128v-129r/128v-129r_Arch10v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/125v-132r/125v-132r_Arch33v_TEI_Netz-Wilson.xml
+https://github.com/papyri/idp.data/raw/master/APIS/duke/xml/duke.apis.29885999.xml
+https://github.com/papyri/idp.data/raw/master/APIS/duke/xml/duke.apis.29886224.xml
+https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.12.xml
+https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.133.xml
+https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.2.xml
+https://github.com/papyri/idp.data/raw/master/APIS/petra/xml/petra.apis.1.xml
+https://github.com/papyri/idp.data/raw/master/APIS/petra/xml/petra.apis.35.xml
+https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb
+https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb
+https://github.com/paregorios/apis-format/raw/master/files/columbia.apis.p179.xml
+https://github.com/paregorios/Mob-Epigraphy/edit/master/st-paul-outside/flavia-faustina.xml
+https://github.com/paregorios/Zotero-RDF-to-TEI-XML/raw/master/data/papyri-info-4716.xml
+https://github.com/performant-software/juxta-ws-ruby/raw/master/test/good-testdata/encoding.xml
+https://github.com/performant-software/juxta-ws-ruby/raw/master/test/good-testdata/frank-1831.xml
+https://github.com/peterstadler/Emigrant-Letters/raw/master/odd/personography.odd.xml
+https://github.com/SAA-SDT/eac-cpf-taglibrary/raw/master/tei_examplefiles_florence/EAC-CPF_TagLibrary_elementDescription_TEI_essai1.xml
+https://github.com/scholarslab/TeiDisplay/raw/feature/new/tests/mocks/winters-tale.xml
+https://github.com/shlomif/Fiction-XML/raw/master/perl/modules/XML-Grammar-Fiction/t/screenplay/data/tei/scenes-with-titles.tei.xml
+https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml
+https://github.com/srophe/manuscripts/raw/master/1002.xml
+https://github.com/srophe/manuscripts/raw/master/1003.xml
+https://github.com/srophe/manuscripts/raw/master/1004.xml
+https://github.com/srophe/manuscripts/raw/master/1005.xml
+https://github.com/srophe/manuscripts/raw/master/100.xml
+https://github.com/srophe/manuscripts/raw/master/103.xml
+https://github.com/srophe/manuscripts/raw/master/104.xml
+https://github.com/srophe/manuscripts/raw/master/1053.xml
+https://github.com/srophe/manuscripts/raw/master/105.xml
+https://github.com/srophe/manuscripts/raw/master/106.xml
+https://github.com/srophe/manuscripts/raw/master/109.xml
+https://github.com/srophe/manuscripts/raw/master/1110.xml
+https://github.com/srophe/manuscripts/raw/master/1.xml
+https://github.com/srophe/manuscripts/raw/master/HMML%20TEI%20Crosswalk.xml
+https://github.com/srophe/places/raw/master/xml/1005.xml
+https://github.com/srophe/places/raw/master/xml/1080.xml
+https://github.com/srophe/places/raw/master/xml/1085.xml
+https://github.com/srophe/places/raw/master/xml/1086.xml
+https://github.com/srophe/places/raw/master/xml/1087.xml
+https://github.com/srophe/places/raw/master/xml/1088.xml
+https://github.com/srophe/places/raw/master/xml/Examples/658.xml
+https://github.com/srophe/places/raw/master/xml/Examples/78.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/108r-107v/108r-107v_Arch48r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/176v-173r/176v-173r_Hype03v_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/039v-0000/039v-0000_Arch63v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/047v-042r/047v-042r_Arch26v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/126r-131v/126r-131v_Arch34r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/056v-049r/056v-049r_Arch04v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/095r-090v/095r-090v_Arch43r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/002v-001r/002v-001r_Arch13v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/014v-019r/014v-019r_Arch02v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/139r-134v/139r-134v_Arch49r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/046v-043r/046v-043r_Arch15v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/094v-091r/094v-091r_Arch64v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/140r-133v/140r-133v_Arch55r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/069r-068v/069r-068v_Arch09r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/150r-153v/150r-153v_Arch58r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/040v-0000/040v-0000_Arch66v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/168r-165v/168r-165v_Arch30v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/004v-005r/004v-005r_Arch47v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/137v-136r/137v-136r_Hype01v_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/145r-144v/145r-144v_Hype02r_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/103v-097r/103v-097r_Arch42v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/109v-106r/109v-106r_Arch45v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/124r-117v/124r-117v_Arch67r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/161r-156v/161r-156v_Arch35r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/066r-071v/066r-071v_Arch17r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/147v-142r/147v-142r_Arch40r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/048v-041r/048v-041r_Arch25v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/004r-005v/004r-005v_Arch47r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/045r-044v/045r-044v_Arch20r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/162r-155v/162r-155v_Arch32r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/170r-163v/170r-163v_Arch21r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/177v-172r/177v-172r_Arch69v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/165r-168v/165r-168v_Arch29v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/048r-041v/048r-041v_Arch25r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/113r-114v/113r-114v_Arch60r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/161v-156r/161v-156r_Arch35v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/066v-071r/066v-071r_Arch17v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/112v-115r/112v-115r_Arch56v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/082r-087v/082r-087v_Arch06r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/0000-171v/0000-171v_Arch68r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/175v-174r/175v-174r_Hype04v_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/102r-098v/102r-098v_Arch39r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/162v-155r/162v-155r_Arch32v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/028v-021r/028v-021r_Arch08v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/081v-088r/081v-088r_Arch03v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/045v-044r/045v-044r_Arch20v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/149v-154r/149v-154r_Arch57v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/058r-063v/058r-063v_Arch19r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/039r-0000/039r-0000_Arch63r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/138v-135r/138v-135r_Hype05v_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/126v-131r/126v-131r_Arch34v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/014r-019v/014r-019v_Arch02r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/094r-091v/094r-091v_Arch64r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/113v-114r/113v-114r_Arch60v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/145v-144r/145v-144r_Hype02v_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/057v-064r/057v-064r_Arch16v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/070v-067r/070v-067r_Arch12v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/060v-061r/060v-061r_Arch36v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/040r-0000/040r-0000_Arch66r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/037v-036r/037v-036r_Arch54v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/030r-033v/030r-033v_Arch37r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/147r-142v/147r-142v_Arch40v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/124v-117r/124v-117r_Arch67v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/027v-022r/027v-022r_Arch01v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/112r-115v/112r-115v_Arch56r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/037r-036v/037r-036v_Arch54r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/058v-063r/058v-063r_Arch19v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/148v-141r/148v-141r_Arch41r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/116r-111v/116r-111v_Arch62r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/059r-062v/059r-062v_Arch31r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/057r-064v/057r-064v_Arch16r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/176r-173v/176r-173v_Hype03r_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/169r-164v/169r-164v_Arch14r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/065r-072v/065r-072v_Arch18r_TEI_Netz-Wilson.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/0000-100v/0000-100v_Arch53r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/150v-153r/150v-153r_Arch58v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/139v-134r/139v-134r_Arch49v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/175r-174v/175r-174v_Hype04r_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/128r-129v/128r-129v_Arch10r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/069v-068r/069v-068r_Arch09v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/158v-159r/158v-159r_Arch28v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/157r-160v/157r-160v_Arch22r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/096r-089v/096r-089v_Arch38r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/055r-050v/055r-050v_Arch05r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/099r-101v/099r-101v_Arch51r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/031v-032r/031v-032r_Arch44v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/060r-061v/060r-061v_Arch36r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/081r-088v/081r-088v_Arch03r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/148r-141v/148r-141v_Arch41v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/109r-106v/109r-106v_Arch45r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/034v-029r/034v-029r_Arch52v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/138r-135v/138r-135v_Hype05r_TEI_ZPE.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/030v-033r/030v-033r_Arch37v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/169v-164r/169v-164r_Arch14v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/140v-133r/140v-133r_Arch55v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/170v-163r/170v-163r_Arch21v_TEI_Netz-Wilson.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/0000-171r/0000-171r_Arch68v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/127v-130r/127v-130r_Arch11v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/003v-006r/003v-006r_Arch46v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/166r-167v/166r-167v_Arch24r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/027r-022v/027r-022v_Arch01r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/0000-171v/0000-171v_Arch68r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/002r-001v/002r-001v_Arch13r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/002v-001r/002v-001r_Arch13v_TEI_Netz-Wilson.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/003r-006v/003r-006v_Arch46r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/038v-035r/038v-035r_Arch50v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/028r-021v/028r-021v_Arch08r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/116v-111r/116v-111r_Arch62v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/123v-118r/123v-118r_Arch61v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/108v-107r/108v-107r_Arch48v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/125r-132v/125r-132v_Arch33r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/103r-097v/103r-097v_Arch42r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/096v-089r/096v-089r_Arch38v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/158r-159v/158r-159v_Arch28r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/082v-087r/082v-087r_Arch06v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/003v-006r/003v-006r_Arch46v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/004r-005v/004r-005v_Arch47r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/004v-005r/004v-005r_Arch47v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/014r-019v/014r-019v_Arch02r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/014v-019r/014v-019r_Arch02v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/017r-016v/017r-016v_Arch07r_TEI_Netz-Wilson.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/017v-016r/017v-016r_Arch07v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/047r-042v/047r-042v_Arch26r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/046r-043v/046r-043v_Arch15r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/027r-022v/027r-022v_Arch01r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/027v-022r/027v-022r_Arch01v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/028r-021v/028r-021v_Arch08r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/028v-021r/028v-021r_Arch08v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/030r-033v/030r-033v_Arch37r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/030v-033r/030v-033r_Arch37v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/031r-032v/031r-032v_Arch44r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/031v-032r/031v-032r_Arch44v_TEI_Netz-Wilson.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/034r-029v/034r-029v_Arch52r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/110r-105v/110r-105v_Arch27r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/093r-092v/093r-092v_Arch65r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/102v-098r/102v-098r_Arch39v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/157v-160r/157v-160r_Arch22v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/099v-101r/099v-101r_Arch51v_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/095v-090r/095v-090r_Arch43v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/034v-029r/034v-029r_Arch52v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/037r-036v/037r-036v_Arch54r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/037v-036r/037v-036r_Arch54v_TEI_Netz-Wilson.xml
 https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/038r-035v/038r-035v_Arch50r_TEI_Netz-Wilson.xml
-https://github.com/steko/epidoc/webpage/intropara.xml
-https://github.com/steko/epidoc/schema/tei-epidoc.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/038v-035r/038v-035r_Arch50v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/039r-0000/039r-0000_Arch63r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/039v-0000/039v-0000_Arch63v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/040r-0000/040r-0000_Arch66r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/040v-0000/040v-0000_Arch66v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/045r-044v/045r-044v_Arch20r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/045v-044r/045v-044r_Arch20v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/046r-043v/046r-043v_Arch15r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/046v-043r/046v-043r_Arch15v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/047r-042v/047r-042v_Arch26r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/047v-042r/047v-042r_Arch26v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/048r-041v/048r-041v_Arch25r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/048v-041r/048v-041r_Arch25v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/055r-050v/055r-050v_Arch05r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/055v-050r/055v-050r_Arch05v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/056r-049v/056r-049v_Arch04r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/056v-049r/056v-049r_Arch04v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/057r-064v/057r-064v_Arch16r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/057v-064r/057v-064r_Arch16v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/058r-063v/058r-063v_Arch19r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/058v-063r/058v-063r_Arch19v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/059r-062v/059r-062v_Arch31r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/059v-062r/059v-062r_Arch31v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/060r-061v/060r-061v_Arch36r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/060v-061r/060v-061r_Arch36v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/065r-072v/065r-072v_Arch18r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/065v-072r/065v-072r_Arch18v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/066r-071v/066r-071v_Arch17r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/066v-071r/066v-071r_Arch17v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/069r-068v/069r-068v_Arch09r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/069v-068r/069v-068r_Arch09v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/070r-067v/070r-067v_Arch12r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/070v-067r/070v-067r_Arch12v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/081r-088v/081r-088v_Arch03r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/081v-088r/081v-088r_Arch03v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/082r-087v/082r-087v_Arch06r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/082v-087r/082v-087r_Arch06v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/093r-092v/093r-092v_Arch65r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/093v-092r/093v-092r_Arch65v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/094r-091v/094r-091v_Arch64r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/094v-091r/094v-091r_Arch64v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/095r-090v/095r-090v_Arch43r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/095v-090r/095v-090r_Arch43v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/096r-089v/096r-089v_Arch38r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/096v-089r/096v-089r_Arch38v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/099r-101v/099r-101v_Arch51r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/099v-101r/099v-101r_Arch51v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/102r-098v/102r-098v_Arch39r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/102v-098r/102v-098r_Arch39v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/103r-097v/103r-097v_Arch42r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/103v-097r/103v-097r_Arch42v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/108r-107v/108r-107v_Arch48r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/108v-107r/108v-107r_Arch48v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/109r-106v/109r-106v_Arch45r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/109v-106r/109v-106r_Arch45v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/110r-105v/110r-105v_Arch27r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/110v-105r/110v-105r_Arch27v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/112r-115v/112r-115v_Arch56r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/112v-115r/112v-115r_Arch56v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/113r-114v/113r-114v_Arch60r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/113v-114r/113v-114r_Arch60v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/116r-111v/116r-111v_Arch62r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/116v-111r/116v-111r_Arch62v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/123r-118v/123r-118v_Arch61r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/123v-118r/123v-118r_Arch61v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/124r-117v/124r-117v_Arch67r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/124v-117r/124v-117r_Arch67v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/125r-132v/125r-132v_Arch33r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/125v-132r/125v-132r_Arch33v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/126r-131v/126r-131v_Arch34r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/126v-131r/126v-131r_Arch34v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/127r-130v/127r-130v_Arch11r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/127v-130r/127v-130r_Arch11v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/128r-129v/128r-129v_Arch10r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/128v-129r/128v-129r_Arch10v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/137r-136v/137r-136v_Hype01r_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/137v-136r/137v-136r_Hype01v_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/138r-135v/138r-135v_Hype05r_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/138v-135r/138v-135r_Hype05v_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/139r-134v/139r-134v_Arch49r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/139v-134r/139v-134r_Arch49v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/140r-133v/140r-133v_Arch55r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/140v-133r/140v-133r_Arch55v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/145r-144v/145r-144v_Hype02r_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/145v-144r/145v-144r_Hype02v_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/147r-142v/147r-142v_Arch40v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/147v-142r/147v-142r_Arch40r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/148r-141v/148r-141v_Arch41v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/148v-141r/148v-141r_Arch41r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/149r-154v/149r-154v_Arch57r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/149v-154r/149v-154r_Arch57v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/150r-153v/150r-153v_Arch58r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/150v-153r/150v-153r_Arch58v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/157r-160v/157r-160v_Arch22r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/157v-160r/157v-160r_Arch22v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/158r-159v/158r-159v_Arch28r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/158v-159r/158v-159r_Arch28v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/161r-156v/161r-156v_Arch35r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/161v-156r/161v-156r_Arch35v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/162r-155v/162r-155v_Arch32r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/162v-155r/162v-155r_Arch32v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/165r-168v/165r-168v_Arch29v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/166r-167v/166r-167v_Arch24r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/166v-167r/166v-167r_Arch24v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/168r-165v/168r-165v_Arch30v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/169r-164v/169r-164v_Arch14r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/169v-164r/169v-164r_Arch14v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/170r-163v/170r-163v_Arch21r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/170v-163r/170v-163r_Arch21v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/175r-174v/175r-174v_Hype04r_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/175v-174r/175v-174r_Hype04v_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/176r-173v/176r-173v_Hype03r_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/176v-173r/176v-173r_Hype03v_TEI_ZPE.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/177r-172v/177r-172v_Arch69r_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/ars_piratica/archimedespalimpsest.net/Data/177v-172r/177v-172r_Arch69v_TEI_Netz-Wilson.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/date-egs.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/EDR000004.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/edr2kv.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/EDR-example.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/edrkv2epidoc.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/epidocEDR000004.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/iaph2edr-csv/iaph2edr-csv.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/test.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/ancientcountries.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/countrycodes.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/edrcountrycodes.xml
+https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/vehicle2iso.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0001.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0002.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0003.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0004.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0005.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0051.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0052.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0053.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0054.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0055.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0101.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0102.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0103.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0104.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0105.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0151.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0152.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0153.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0154.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0155.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0201.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0202.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0203.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0204.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0205.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0251.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0252.xml
+https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0253.xml
 https://github.com/steko/epidoc/deprecated/schema-gl/epiMetaDoc-ex.xml
 https://github.com/steko/epidoc/deprecated/schema-gl/epiMetaOdds.xml
-https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0004.xml
-https://github.com/steko/epidoc/deprecated/xml-examples/src/inst054.xml
-https://github.com/steko/epidoc/deprecated/xml-examples/src/EDR010214.xml
-https://github.com/steko/epidoc/deprecated/xml-examples/src/EDR000001.xml
-https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0003.xml
 https://github.com/steko/epidoc/deprecated/xml-examples/src/eCorinth001.xml
-https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0002.xml
+https://github.com/steko/epidoc/deprecated/xml-examples/src/EDR000001.xml
+https://github.com/steko/epidoc/deprecated/xml-examples/src/EDR010214.xml
 https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0001.xml
+https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0002.xml
+https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0003.xml
+https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0004.xml
 https://github.com/steko/epidoc/deprecated/xml-examples/src/iAph0005.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/test.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/vehicle2iso.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/ancientcountries.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/edrcountrycodes.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/thesauri/countrycodes.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/date-egs.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/epidocEDR000004.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/EDR-example.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/edr2kv.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/EDR000004.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/edr2epidoc/edrkv2epidoc.xml
-https://github.com/steko/epidoc/deprecated/crosswalker/crosswalks/iaph2edr-csv/iaph2edr-csv.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0203.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0004.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0155.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0103.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0202.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0201.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0253.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0003.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0051.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0101.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0002.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0001.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0205.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0005.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0204.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0152.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0053.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0251.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0104.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0153.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0252.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0151.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0052.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0105.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0154.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0055.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0102.xml
-https://github.com/steko/epidoc/deprecated/epidoc-webapp/prj/insaph-demo/src/iAph0054.xml
+https://github.com/steko/epidoc/deprecated/xml-examples/src/inst054.xml
+https://github.com/steko/epidoc/example-p5-xslt/global-parameters.xml
+https://github.com/steko/epidoc/guidelines/src/abbreviationsnotunderstood.xml
+https://github.com/steko/epidoc/guidelines/src/abbreviationsunderstood.xml
+https://github.com/steko/epidoc/guidelines/src/acrophonic.xml
+https://github.com/steko/epidoc/guidelines/src/additionanddeletion.xml
+https://github.com/steko/epidoc/guidelines/src/addition.xml
+https://github.com/steko/epidoc/guidelines/src/apices.xml
+https://github.com/steko/epidoc/guidelines/src/backgroundandrationale.xml
+https://github.com/steko/epidoc/guidelines/src/bibliographicreferences.xml
 https://github.com/steko/epidoc/guidelines/src/bibliography.xml
-https://github.com/steko/epidoc/guidelines/src/multipletexts.xml
-https://github.com/steko/epidoc/guidelines/src/notfinished.xml
-https://github.com/steko/epidoc/guidelines/src/ilonga.xml
-https://github.com/steko/epidoc/guidelines/src/fragmentarytexts.xml
-https://github.com/steko/epidoc/guidelines/src/relationships.xml
+https://github.com/steko/epidoc/guidelines/src/breviatio.xml
+https://github.com/steko/epidoc/guidelines/src/chetc.xml
 https://github.com/steko/epidoc/guidelines/src/chirho.xml
+https://github.com/steko/epidoc/guidelines/src/claudianletters.xml
+https://github.com/steko/epidoc/guidelines/src/commandlinexslt.xml
+https://github.com/steko/epidoc/guidelines/src/commentary.xml
+https://github.com/steko/epidoc/guidelines/src/conformance-aiegl-list.xml
+https://github.com/steko/epidoc/guidelines/src/conformance-leiden-list.xml
+https://github.com/steko/epidoc/guidelines/src/conformance.xml
+https://github.com/steko/epidoc/guidelines/src/control.xml
+https://github.com/steko/epidoc/guidelines/src/corrections.xml
+https://github.com/steko/epidoc/guidelines/src/criticalapparatus.xml
+https://github.com/steko/epidoc/guidelines/src/crossreferences.xml
+https://github.com/steko/epidoc/guidelines/src/damagegroup.xml
+https://github.com/steko/epidoc/guidelines/src/dateinterpretation.xml
+https://github.com/steko/epidoc/guidelines/src/deletion.xml
+https://github.com/steko/epidoc/guidelines/src/describing.xml
+https://github.com/steko/epidoc/guidelines/src/description-language.xml
+https://github.com/steko/epidoc/guidelines/src/description-material.xml
+https://github.com/steko/epidoc/guidelines/src/description-physical.xml
+https://github.com/steko/epidoc/guidelines/src/description-support.xml
+https://github.com/steko/epidoc/guidelines/src/directionoftext.xml
+https://github.com/steko/epidoc/guidelines/src/div-apparatus.xml
+https://github.com/steko/epidoc/guidelines/src/div-bibliography.xml
+https://github.com/steko/epidoc/guidelines/src/div-commentary.xml
+https://github.com/steko/epidoc/guidelines/src/div-description.xml
+https://github.com/steko/epidoc/guidelines/src/div-edition.xml
+https://github.com/steko/epidoc/guidelines/src/div-figure.xml
+https://github.com/steko/epidoc/guidelines/src/div-history.xml
+https://github.com/steko/epidoc/guidelines/src/div-translation.xml
+https://github.com/steko/epidoc/guidelines/src/documentstructureintro.xml
+https://github.com/steko/epidoc/guidelines/src/documentstructure.xml
+https://github.com/steko/epidoc/guidelines/src/editorialellipsis.xml
+https://github.com/steko/epidoc/guidelines/src/editorialother.xml
+https://github.com/steko/epidoc/guidelines/src/encodingdates.xml
+https://github.com/steko/epidoc/guidelines/src/epidevdev.xml
+https://github.com/steko/epidoc/guidelines/src/epidev-gl-doit.xml
+https://github.com/steko/epidoc/guidelines/src/epidev-gl-p5.xml
+https://github.com/steko/epidoc/guidelines/src/epidev-gl.xml
+https://github.com/steko/epidoc/guidelines/src/epidevinsc.xml
+https://github.com/steko/epidoc/guidelines/src/epidevtests.xml
+https://github.com/steko/epidoc/guidelines/src/epidev.xml
+https://github.com/steko/epidoc/guidelines/src/epidoc-webapp.xml
+https://github.com/steko/epidoc/guidelines/src/epidoc-xsl.xml
+https://github.com/steko/epidoc/guidelines/src/epigraphicdossiers.xml
+https://github.com/steko/epidoc/guidelines/src/erroneousinclusion.xml
+https://github.com/steko/epidoc/guidelines/src/erroneousomission.xml
+https://github.com/steko/epidoc/guidelines/src/erroneoussubstitution.xml
+https://github.com/steko/epidoc/guidelines/src/essentialreading.xml
+https://github.com/steko/epidoc/guidelines/src/formandappearance.xml
+https://github.com/steko/epidoc/guidelines/src/fragmentarytexts.xml
+https://github.com/steko/epidoc/guidelines/src/geographicnames.xml
+https://github.com/steko/epidoc/guidelines/src/geography.xml
+https://github.com/steko/epidoc/guidelines/src/gl-organization.xml
+https://github.com/steko/epidoc/guidelines/src/glossary.xml
+https://github.com/steko/epidoc/guidelines/src/glpartfiletemplate.xml
+https://github.com/steko/epidoc/guidelines/src/glstyle.xml
+https://github.com/steko/epidoc/guidelines/src/gl-tech.xml
+https://github.com/steko/epidoc/guidelines/src/guidelines.xml
+https://github.com/steko/epidoc/guidelines/src/history.xml
+https://github.com/steko/epidoc/guidelines/src/ilonga.xml
+https://github.com/steko/epidoc/guidelines/src/images.xml
+https://github.com/steko/epidoc/guidelines/src/interpretation.xml
+https://github.com/steko/epidoc/guidelines/src/interpuncts.xml
+https://github.com/steko/epidoc/guidelines/src/intralinearlines.xml
 https://github.com/steko/epidoc/guidelines/src/introduction.xml
 https://github.com/steko/epidoc/guidelines/src/introeps.xml
-https://github.com/steko/epidoc/guidelines/src/taggingtext.xml
-https://github.com/steko/epidoc/guidelines/src/geography.xml
-https://github.com/steko/epidoc/guidelines/src/epidev-gl.xml
-https://github.com/steko/epidoc/guidelines/src/languages.xml
-https://github.com/steko/epidoc/guidelines/src/lostcertain.xml
-https://github.com/steko/epidoc/guidelines/src/epigraphicdossiers.xml
-https://github.com/steko/epidoc/guidelines/src/conformance.xml
-https://github.com/steko/epidoc/guidelines/src/unclear.xml
-https://github.com/steko/epidoc/guidelines/src/abbreviationsunderstood.xml
-https://github.com/steko/epidoc/guidelines/src/translation.xml
-https://github.com/steko/epidoc/guidelines/src/documentstructure.xml
-https://github.com/steko/epidoc/guidelines/src/ligature.xml
-https://github.com/steko/epidoc/guidelines/src/epidevtests.xml
-https://github.com/steko/epidoc/guidelines/src/conformance-aiegl-list.xml
-https://github.com/steko/epidoc/guidelines/src/epidevinsc.xml
-https://github.com/steko/epidoc/guidelines/src/teiheader.xml
-https://github.com/steko/epidoc/guidelines/src/typeoftext.xml
-https://github.com/steko/epidoc/guidelines/src/textparts.xml
-https://github.com/steko/epidoc/guidelines/src/reversedletters.xml
-https://github.com/steko/epidoc/guidelines/src/vacat.xml
-https://github.com/steko/epidoc/guidelines/src/description-physical.xml
-https://github.com/steko/epidoc/guidelines/src/glpartfiletemplate.xml
-https://github.com/steko/epidoc/guidelines/src/description-language.xml
-https://github.com/steko/epidoc/guidelines/src/breviatio.xml
-https://github.com/steko/epidoc/guidelines/src/lines.xml
-https://github.com/steko/epidoc/guidelines/src/releasechetc-js.xml
-https://github.com/steko/epidoc/guidelines/src/erroneousomission.xml
-https://github.com/steko/epidoc/guidelines/src/notations.xml
-https://github.com/steko/epidoc/guidelines/src/teiprofiledesc.xml
-https://github.com/steko/epidoc/guidelines/src/outofline.xml
-https://github.com/steko/epidoc/guidelines/src/tagging-namesandpersons.xml
-https://github.com/steko/epidoc/guidelines/src/toolsandtechniques.xml
-https://github.com/steko/epidoc/guidelines/src/images.xml
-https://github.com/steko/epidoc/guidelines/src/sprintsandstorm.xml
-https://github.com/steko/epidoc/guidelines/src/epidoc-xsl.xml
-https://github.com/steko/epidoc/guidelines/src/div-history.xml
-https://github.com/steko/epidoc/guidelines/src/xmlencoding.xml
-https://github.com/steko/epidoc/guidelines/src/textunits.xml
-https://github.com/steko/epidoc/guidelines/src/dateinterpretation.xml
-https://github.com/steko/epidoc/guidelines/src/erroneousinclusion.xml
-https://github.com/steko/epidoc/guidelines/src/acrophonic.xml
-https://github.com/steko/epidoc/guidelines/src/claudianletters.xml
-https://github.com/steko/epidoc/guidelines/src/damagegroup.xml
-https://github.com/steko/epidoc/guidelines/src/teiencodingdesc.xml
-https://github.com/steko/epidoc/guidelines/src/epidev-gl-doit.xml
-https://github.com/steko/epidoc/guidelines/src/div-apparatus.xml
-https://github.com/steko/epidoc/guidelines/src/epidoc-webapp.xml
-https://github.com/steko/epidoc/guidelines/src/namesandpersons.xml
-https://github.com/steko/epidoc/guidelines/src/formandappearance.xml
-https://github.com/steko/epidoc/guidelines/src/numbersandnumerals.xml
-https://github.com/steko/epidoc/guidelines/src/lostlesscertain.xml
-https://github.com/steko/epidoc/guidelines/src/interpretation.xml
-https://github.com/steko/epidoc/guidelines/src/location.xml
-https://github.com/steko/epidoc/guidelines/src/noproblems.xml
-https://github.com/steko/epidoc/guidelines/src/backgroundandrationale.xml
-https://github.com/steko/epidoc/guidelines/src/div-translation.xml
-https://github.com/steko/epidoc/guidelines/src/possiblylost.xml
-https://github.com/steko/epidoc/guidelines/src/essentialreading.xml
-https://github.com/steko/epidoc/guidelines/src/lostbeginningorend.xml
-https://github.com/steko/epidoc/guidelines/src/description-material.xml
-https://github.com/steko/epidoc/guidelines/src/commandlinexslt.xml
-https://github.com/steko/epidoc/guidelines/src/releasefullwebapp.xml
-https://github.com/steko/epidoc/guidelines/src/corrections.xml
-https://github.com/steko/epidoc/guidelines/src/deletion.xml
-https://github.com/steko/epidoc/guidelines/src/conformance-leiden-list.xml
-https://github.com/steko/epidoc/guidelines/src/description-support.xml
-https://github.com/steko/epidoc/guidelines/src/supralinearlines.xml
-https://github.com/steko/epidoc/guidelines/src/geographicnames.xml
-https://github.com/steko/epidoc/guidelines/src/erroneoussubstitution.xml
-https://github.com/steko/epidoc/guidelines/src/addition.xml
-https://github.com/steko/epidoc/guidelines/src/bibliographicreferences.xml
-https://github.com/steko/epidoc/guidelines/src/teirevisiondesc.xml
-https://github.com/steko/epidoc/guidelines/src/interpuncts.xml
-https://github.com/steko/epidoc/guidelines/src/glossary.xml
-https://github.com/steko/epidoc/guidelines/src/rei-materia.xml
-https://github.com/steko/epidoc/guidelines/src/glstyle.xml
-https://github.com/steko/epidoc/guidelines/src/vocabularies.xml
-https://github.com/steko/epidoc/guidelines/src/div-commentary.xml
-https://github.com/steko/epidoc/guidelines/src/encodingdates.xml
-https://github.com/steko/epidoc/guidelines/src/teitext.xml
-https://github.com/steko/epidoc/guidelines/src/apices.xml
-https://github.com/steko/epidoc/guidelines/src/crossreferences.xml
-https://github.com/steko/epidoc/guidelines/src/previouslyread.xml
-https://github.com/steko/epidoc/guidelines/src/epidev-gl-p5.xml
-https://github.com/steko/epidoc/guidelines/src/teilangusage.xml
-https://github.com/steko/epidoc/guidelines/src/guidelines.xml
-https://github.com/steko/epidoc/guidelines/src/describing.xml
-https://github.com/steko/epidoc/guidelines/src/oxygenwithxslt.xml
-https://github.com/steko/epidoc/guidelines/src/vowelquantity.xml
-https://github.com/steko/epidoc/guidelines/src/vestiges.xml
-https://github.com/steko/epidoc/guidelines/src/smallcharacters.xml
-https://github.com/steko/epidoc/guidelines/src/div-description.xml
-https://github.com/steko/epidoc/guidelines/src/commentary.xml
-https://github.com/steko/epidoc/guidelines/src/subaudible.xml
-https://github.com/steko/epidoc/guidelines/src/gl-tech.xml
-https://github.com/steko/epidoc/guidelines/src/chetc.xml
-https://github.com/steko/epidoc/guidelines/src/div-bibliography.xml
-https://github.com/steko/epidoc/guidelines/src/othermarkupissues.xml
-https://github.com/steko/epidoc/guidelines/src/div-figure.xml
-https://github.com/steko/epidoc/guidelines/src/measurements.xml
-https://github.com/steko/epidoc/guidelines/src/overstruck.xml
-https://github.com/steko/epidoc/guidelines/src/symbolsglyphs.xml
-https://github.com/steko/epidoc/guidelines/src/documentstructureintro.xml
-https://github.com/steko/epidoc/guidelines/src/tallcharacters.xml
-https://github.com/steko/epidoc/guidelines/src/abbreviationsnotunderstood.xml
-https://github.com/steko/epidoc/guidelines/src/supplements.xml
-https://github.com/steko/epidoc/guidelines/src/supplementforlost.xml
-https://github.com/steko/epidoc/guidelines/src/criticalapparatus.xml
-https://github.com/steko/epidoc/guidelines/src/verse.xml
-https://github.com/steko/epidoc/guidelines/src/additionanddeletion.xml
-https://github.com/steko/epidoc/guidelines/src/nonsensical.xml
-https://github.com/steko/epidoc/guidelines/src/literature.xml
-https://github.com/steko/epidoc/guidelines/src/lost.xml
-https://github.com/steko/epidoc/guidelines/src/teifiledesc.xml
-https://github.com/steko/epidoc/guidelines/src/rerum-inscriptarum-distributio.xml
-https://github.com/steko/epidoc/guidelines/src/lostline.xml
-https://github.com/steko/epidoc/guidelines/src/control.xml
-https://github.com/steko/epidoc/guidelines/src/editorialother.xml
-https://github.com/steko/epidoc/guidelines/src/div-edition.xml
 https://github.com/steko/epidoc/guidelines/src/jeditwithxslt.xml
-https://github.com/steko/epidoc/guidelines/src/gl-organization.xml
-https://github.com/steko/epidoc/guidelines/src/epidev.xml
-https://github.com/steko/epidoc/guidelines/src/releases.xml
-https://github.com/steko/epidoc/guidelines/src/epidevdev.xml
-https://github.com/steko/epidoc/guidelines/src/teidiv.xml
-https://github.com/steko/epidoc/guidelines/src/editorialellipsis.xml
+https://github.com/steko/epidoc/guidelines/src/languages.xml
+https://github.com/steko/epidoc/guidelines/src/ligature.xml
+https://github.com/steko/epidoc/guidelines/src/lines.xml
+https://github.com/steko/epidoc/guidelines/src/literature.xml
+https://github.com/steko/epidoc/guidelines/src/location.xml
+https://github.com/steko/epidoc/guidelines/src/lostbeginningorend.xml
+https://github.com/steko/epidoc/guidelines/src/lostcertain.xml
+https://github.com/steko/epidoc/guidelines/src/lostlesscertain.xml
+https://github.com/steko/epidoc/guidelines/src/lostline.xml
+https://github.com/steko/epidoc/guidelines/src/lost.xml
+https://github.com/steko/epidoc/guidelines/src/measurements.xml
+https://github.com/steko/epidoc/guidelines/src/multipletexts.xml
+https://github.com/steko/epidoc/guidelines/src/namesandpersons.xml
+https://github.com/steko/epidoc/guidelines/src/nonsensical.xml
+https://github.com/steko/epidoc/guidelines/src/noproblems.xml
+https://github.com/steko/epidoc/guidelines/src/notations.xml
+https://github.com/steko/epidoc/guidelines/src/notfinished.xml
+https://github.com/steko/epidoc/guidelines/src/numbersandnumerals.xml
+https://github.com/steko/epidoc/guidelines/src/othermarkupissues.xml
+https://github.com/steko/epidoc/guidelines/src/outofline.xml
+https://github.com/steko/epidoc/guidelines/src/overstruck.xml
+https://github.com/steko/epidoc/guidelines/src/oxygenwithxslt.xml
+https://github.com/steko/epidoc/guidelines/src/possiblylost.xml
+https://github.com/steko/epidoc/guidelines/src/previouslyread.xml
 https://github.com/steko/epidoc/guidelines/src/recording.xml
-https://github.com/steko/epidoc/guidelines/src/intralinearlines.xml
+https://github.com/steko/epidoc/guidelines/src/rei-materia.xml
+https://github.com/steko/epidoc/guidelines/src/relationships.xml
+https://github.com/steko/epidoc/guidelines/src/releasechetc-js.xml
+https://github.com/steko/epidoc/guidelines/src/releasefullwebapp.xml
+https://github.com/steko/epidoc/guidelines/src/releases.xml
+https://github.com/steko/epidoc/guidelines/src/rerum-inscriptarum-distributio.xml
+https://github.com/steko/epidoc/guidelines/src/reversedletters.xml
+https://github.com/steko/epidoc/guidelines/src/smallcharacters.xml
+https://github.com/steko/epidoc/guidelines/src/sprintsandstorm.xml
+https://github.com/steko/epidoc/guidelines/src/subaudible.xml
+https://github.com/steko/epidoc/guidelines/src/supplementforlost.xml
+https://github.com/steko/epidoc/guidelines/src/supplements.xml
+https://github.com/steko/epidoc/guidelines/src/supralinearlines.xml
+https://github.com/steko/epidoc/guidelines/src/symbolsglyphs.xml
+https://github.com/steko/epidoc/guidelines/src/tagging-namesandpersons.xml
+https://github.com/steko/epidoc/guidelines/src/taggingtext.xml
+https://github.com/steko/epidoc/guidelines/src/tallcharacters.xml
+https://github.com/steko/epidoc/guidelines/src/teidiv.xml
+https://github.com/steko/epidoc/guidelines/src/teiencodingdesc.xml
+https://github.com/steko/epidoc/guidelines/src/teifiledesc.xml
+https://github.com/steko/epidoc/guidelines/src/teiheader.xml
+https://github.com/steko/epidoc/guidelines/src/teilangusage.xml
+https://github.com/steko/epidoc/guidelines/src/teiprofiledesc.xml
+https://github.com/steko/epidoc/guidelines/src/teirevisiondesc.xml
+https://github.com/steko/epidoc/guidelines/src/teitext.xml
+https://github.com/steko/epidoc/guidelines/src/textparts.xml
+https://github.com/steko/epidoc/guidelines/src/textunits.xml
+https://github.com/steko/epidoc/guidelines/src/toolsandtechniques.xml
 https://github.com/steko/epidoc/guidelines/src/transcription.xml
-https://github.com/steko/epidoc/guidelines/src/history.xml
-https://github.com/steko/epidoc/guidelines/src/directionoftext.xml
-
-https://github.com/emory-libraries-beckctr/belfast/edit/master/xml/simmons1.xml, , 
-
-http://stephens-letters.googlecode.com/svn/trunk/StephensCorpus.xml, , 
-
-http://doane-journal1852.googlecode.com/svn/trunk/Doane-Journal.xml, , 
-
-http://phantoms.googlecode.com/svn/Phantoms/WebContent/data/TEI/cerami/L'uovo%20di%20Colombo/l_uovo_di_colombo_A1_messaggero.xml, , 
-
-
-http://tei.hrit-php.googlecode.com/hg/tei_parser_full/xml/winchester.xml, ,
-
-https://faulkneratvirginia.googlecode.com/svn/trunk/cocoon/data/tei/wfaudio22_1_2clip.xml, ,
-
-http://lucius-c-smith-diaries.googlecode.com/svn/trunk/LCSmith-Diaries.xml, , 
-
-http://music-encoding.googlecode.com/svn/branches/MEI_dev/customizations/mei-all_anyStart.xml, , 
-http://phildict.googlecode.com/svn/trunk/Data/Wolff/WCED-A.tei, , 
-
-http://tiro-interactive.googlecode.com/svn/prado/trunk/protected/Pages/TextManagement/Plugins/Definitions/ExampleXML.xml, , 
-http://tiro-interactive.googlecode.com/svn/prado/trunk/protected/Pages/TextManagement/Plugins/Definitions/xmlchunk.cursus.xml, , 
-
-
-http://menota.org/eksempler/AM_242_fol.xml, , 
-http://menota.org/eksempler/Holm_perg_6_fol.xml, , 
-
-http://quads.esds.ac.uk/projects/esds_odd.xml, , 
-
-https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/lib-header.odd, , 
-
-https://svn.duraspace.org/view/fcrepo-mirror/fedora/trunk/src/demo-content/formatting-objects-demo/teixsl.xml?revision=7948&pathrev=7948, , 
-
-http://www.wwp.brown.edu/outreach/seminars/uvic2007/schema/yaps.odd, , 
-
-http://durito.cvs.sourceforge.net/viewvc/durito/durito/XMLDocs/PHO-Z_1_68.xml?revision=1.1, ,
-
-http://sourceforge.net/p/algone/code/HEAD/tree/corpus/andersen/andersen_contes.xml?format=raw, ,
-
-http://sourceforge.net/p/weboai/code/HEAD/tree/schema/teiHeader.xml?format=raw, , 
-
-http://sourceforge.net/p/txm/code/HEAD/tree/trunk/corpora/web_graal/qgraal_frmod_2009-07-w.xml?format=raw, , 
-
-https://tei-enrich.googlecode.com/svn/trunk/enrichRef-1.0.xml, , 
-
-https://doane-journal1852.googlecode.com/svn/trunk/Doane-Journal-Custom.odd, , 
-
-https://dkpro-core-asl.googlecode.com/svn-history/r1299/de.tudarmstadt.ukp.dkpro.core-asl/trunk/de.tudarmstadt.ukp.dkpro.core.io.tei-asl/src/test/resources/brown_tei/a01.xml, , 
-
-https://oxygen-tei.googlecode.com/svn-history/r56/trunk/oxygen-tei/frameworks/tei/xml/tei/odd/p5subset.xml, , 
-
-https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/talk-editing.xml, , 
-https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/tp-styling.xml, , 
-https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/tp-oxygen.xml, , 
-https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/talk-hdr.xml, , 
-https://tei-fr.googlecode.com/svn/trunk/Talks/2012-01-caen/annotation.xml, , 
-https://tei-fr.googlecode.com/svn/trunk/Talks/2013-05-barcelona/report.xml, , 
-
-https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-A.tei, , 
-https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-B.tei, , 
-https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-D.tei, , 
-https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-G.tei, , 
-https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-S.tei, , 
-
-https://tei2html.googlecode.com/svn-history/r465/trunk/samples/PhilippineFolkTales.xml, , 
-
-https://berkeley-prosopography-services.googlecode.com/svn/trunk/data/AndreaSeri_teiCorpus-2011-04-01.xml, , 
-
-http://svn.apache.org/repos/asf/forrest/trunk/examples/contentIntegration/src/documentation/content/xdocs/samples/xdoc.xml, , 
-
-http://svn.apache.org/repos/asf/forrest/trunk/whiteboard/plugins/org.apache.forrest.plugin.input.tei/src/documentation/content/xdocs/sample/xdoc.xml, , 
-
-
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/ADescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/CDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/DDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/EDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/ExDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/LDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/PDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/UDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/VDescription.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJA.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJC.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJD.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJE.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJL.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJP.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJU.xml
-https://github.com/MedievalMatt/Piers-dev/raw/master/XSLT/xml/SJV.xml
-
+https://github.com/steko/epidoc/guidelines/src/translation.xml
+https://github.com/steko/epidoc/guidelines/src/typeoftext.xml
+https://github.com/steko/epidoc/guidelines/src/unclear.xml
+https://github.com/steko/epidoc/guidelines/src/vacat.xml
+https://github.com/steko/epidoc/guidelines/src/verse.xml
+https://github.com/steko/epidoc/guidelines/src/vestiges.xml
+https://github.com/steko/epidoc/guidelines/src/vocabularies.xml
+https://github.com/steko/epidoc/guidelines/src/vowelquantity.xml
+https://github.com/steko/epidoc/guidelines/src/xmlencoding.xml
+https://github.com/steko/epidoc/P5%20conversion/schema/exp-epidoc.xml
+https://github.com/steko/epidoc/P5%20conversion/schema/USEP/2009-03-06P5template.xml
+https://github.com/steko/epidoc/P5%20conversion/schema/USEP/USEp-P5-mock-up.xml
+https://github.com/steko/epidoc/P5%20conversion/test%20XML-p5/IRT087.xml
+https://github.com/steko/epidoc/raw/master/guidelines/src/abbreviationsnotunderstood.xml
+https://github.com/steko/epidoc/raw/master/guidelines/src/documentstructureintro.xml
+https://github.com/steko/epidoc/raw/master/P5%20conversion/schema/exp-epidoc.xml
+https://github.com/steko/epidoc/raw/master/P5%20conversion/test%20XML-p5/IRT087.xml
+https://github.com/steko/epidoc/raw/master/schema/tei-epidoc.xml
+https://github.com/steko/epidoc/schema/tei-epidoc.xml
+https://github.com/steko/epidoc/webpage/intropara.xml
+https://github.com/supermario84/Parser/raw/master/src/main/resources/file3.xml
+https://github.com/supermario84/Parser/raw/master/src/main/resources/file9.xml
+https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level1.odd
+https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level2.odd
+https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level3.odd
+https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level4.odd
+https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/lib-header.odd
+https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/lib-header.odd
+https://github.com/TEIC/pureodd/raw/master/pureodd.odd
+https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/crm.odd
+https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/dc.odd
+https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/rdf.odd
 https://github.com/tingletech/xtf-dsc/raw/master/regress/CrossQuery/N-Stub/filesToID/ft1n39n7wg.xml
 https://github.com/tingletech/xtf-dsc/raw/master/regress/CrossQuery/N-Stub/filesToID/ft2g5004sk.xml
-
-
-https://github.com/shlomif/Fiction-XML/raw/master/perl/modules/XML-Grammar-Fiction/t/screenplay/data/tei/scenes-with-titles.tei.xml
-
-https://github.com/BibalexIRILS/WAMCP/raw/master/WAMCP/WebContent/XML/msDescBlank.xml, , 
-
-https://github.com/peterstadler/Emigrant-Letters/raw/master/odd/personography.odd.xml, , 
-
-https://github.com/umd-mith/mishnah/raw/master/data/tei/ref-toharot-split.xml, , 
-
-https://github.com/DigitalResearchCentre/tc/raw/master/tei.xml, , 
-
-https://github.com/opensiddur/opensiddur/blob/master/code/tests/transforms/flatten/unflatten2.xml, , 
-https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Amos.xml
-https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Chronicles_1.xml
-https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Chronicles_2.xml
-https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Daniel.xml
-https://github.com/opensiddur/opensiddur/raw/develop/opensiddur-sources/sources/tanach/WLC/Books/Deuteronomy.xml
-
-https://github.com/mangalam-research/salve/blob/develop/test/tei/simplified.rng
-https://github.com/mangalam-research/salve/raw/develop/test/tei/to_parse.xml
-https://github.com/mangalam-research/salve/raw/develop/test/tei/myTEI.rng
-https://github.com/mangalam-research/salve/raw/develop/test/tei/myTEI.rnc
-
-https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/to_parse.xml
-https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/myTEI.rnc
-https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/myTEI.rng
-https://github.com/mangalam-research/salve/raw/develop/test/tei-with-modules/myTEI.xml
-
-
-
-
-
-https://github.com/paregorios/apis-format/raw/master/files/columbia.apis.p179.xml, ,
-
-https://github.com/clioweb/travails/raw/master/docs/tei/correspondence/Ce-Br(43-09-22).xml, , 
-
-https://github.com/wp-plugins/anthologize/raw/master/tests/teiApiTests/test.xml, , 
-
-https://github.com/eXist-db/matumi/raw/master/encyclopedias/persons.xml, , 
-
-https://github.com/bhb/ruby-spellcheck/raw/master/test-data/0643.xml, , 
-
-https://github.com/nkallen/perseus-greco-roman/raw/master/Plutarch/opensource/plut.comp.phil.flam_gk.xml, , 
-
-https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/A041001.xml
-https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.odd.xml
-https://github.com/nweiler/LeeToWells/raw/master/correspondence%20schema/correspondenceProposal.rng
-
-https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsAug.15.1904.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsDec.18.1906.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsJan.19.1910.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsJun.16.1908.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeeToWellsOct.30.1908.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsApr.7.1904.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsAug.5.1914.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsDec.22.1909.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsJan.5.1910.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsJune8.1914.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsMay.24.1911.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.23.1905.xml
-https://github.com/nweiler/LeeToWells/raw/master/LeetoWellsNov.7.1913.xml
-
-
-https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-eng.xml, , 
-https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia-ned.xml, , 
-https://github.com/neelsmith/hmt-iliad10/raw/master/texts/editionsD/scholia/VenetusA-Scholia.xml, , 
-
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Main.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Intermarginal.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Interlinear.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Interior.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Scholia/Exterior.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Iliad/VenetusA-Iliad-5.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/VenetusA/Iliad/VenetusA-Iliad-10.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/Esc-Upsilon-1-1/scholia/Esc-Upsilon-1-1-Scholia-10.xml
-https://github.com/HCMID/hmt-iliad10/raw/master/texts/editions/Esc-Upsilon-1-1/Iliad/Esc-Upsilon-1-1-Iliad-10.xml
-
-
-https://github.com/HCMID/gen49/raw/master/texts/editions/Geneva49.xml
-https://github.com/HCMID/gen49/raw/master/texts/editions/JerChronicles-tert.xml
-
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/palimpsest/SphereandCylinder-ap-1.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/palimpsest/Measurement-Circle-p5.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/palimpsest/FloatingBodies-p5.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-spirals-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-sc-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-quadparab-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-psamm-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-method-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-lemm-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-fb-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-eqplan-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-dimcirc-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-consph-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/heath/archim-cattle-eng.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/SphereandCylinder-cb8.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/Measurement-Circle-cb8.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/Eutocius-SC-cb8.xml
-https://github.com/HCMID/archimedes-hc/raw/master/texts/editions/cb8/Eutocius-Measurement-Circle-cb8.xml
-
-
-https://github.com/SAA-SDT/eac-cpf-taglibrary/raw/master/tei_examplefiles_florence/EAC-CPF_TagLibrary_elementDescription_TEI_essai1.xml, , 
-
-https://github.com/nowviskie/Swinburne/raw/master/xml/pubhistory.xml
-https://github.com/nowviskie/Swinburne/raw/master/xml/notes.xml
-https://github.com/nowviskie/Swinburne/raw/master/xml/mcgann.xml
-https://github.com/nowviskie/Swinburne/raw/master/xml/frontmatter.xml
-https://github.com/nowviskie/Swinburne/raw/master/xml/descriptions.xml
-https://github.com/nowviskie/Swinburne/raw/master/xml/base2-tm.xml
-https://github.com/nowviskie/Swinburne/raw/master/xml/base.xml
-
-
-https://github.com/performant-software/juxta-ws-ruby/raw/master/test/good-testdata/encoding.xml, , 
-https://github.com/performant-software/juxta-ws-ruby/raw/master/test/good-testdata/frank-1831.xml, , 
-
-https://github.com/steko/epidoc/raw/master/guidelines/src/documentstructureintro.xml, , 
-https://github.com/steko/epidoc/raw/master/guidelines/src/abbreviationsnotunderstood.xml, , 
-
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/703376.tei.xml, ,
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/10000050.tei.xml, ,
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/20000006.tei.xml, , 
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-1.tei.xml, , 
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-2.tei.xml, , 
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-3.tei.xml, , 
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-4.tei.xml, , 
-https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-5.tei.xml, , 
-
-https://github.com/hcayless/tei-string-range/raw/master/bgu.1.116.xml, ,
-
-https://github.com/viscenter/Server_side/raw/master/ctsPlay_2/xml-tabulator/BonniesFiles_jb/John1-lat.xml, , 
-https://github.com/viscenter/Server_side/raw/master/ctsPlay_2/xml-tabulator/BonniesFiles_jb/Mark-Latin-NIV.xml, , 
-
-https://github.com/dhamma/tipitaka/raw/master/cst4xml-devanagari/e1213n.nrf.xml, , 
-
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0010xx/A001002.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0020xx/A002068.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0002xx/A000213.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0302xx/A030241.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0300xx/A030081.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0300xx/A030313.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041401.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041425.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041404.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060002.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060001.xml
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060003.xml
-
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_biblio.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_news.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_works.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_diaries.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_letters.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_persons.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_common.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_var.odd.xml
-
-
-
-https://github.com/faustedition/app/raw/master/faust/src/test/resources/de/faustedition/tei/faust-tei-sample.xml 
-https://github.com/faustedition/app/raw/master/faust-schema/src/main/odd/faust-tei.xml
-
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test1.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test2.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test3.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test4.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test5.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test1.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test2.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test3.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test4.xml, , 
-https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_word/test5.xml, , 
-
-https://github.com/bleierr/XSLT_Course/raw/master/Confessio_Ferguson.xml, , 
-
-https://github.com/TEIC/pureodd/raw/master/pureodd.odd, , 
-
-https://github.com/travisbrown/abbot/raw/master/src/odd/TEIsimple.odd 
-https://github.com/travisbrown/abbot/raw/master/src/odd/TEIAnalytics.odd 
 https://github.com/travisbrown/abbot/raw/master/src/dtd/TEIAnalytics.dtd
+https://github.com/travisbrown/abbot/raw/master/src/odd/TEIAnalytics.odd 
+https://github.com/travisbrown/abbot/raw/master/src/odd/TEIsimple.odd 
 https://github.com/travisbrown/abbot/raw/master/src/rnc/TEIAnalytics.rnc
 https://github.com/travisbrown/abbot/raw/master/src/rng/TEIAnalytics.rng
-
-
-https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-witness.odd, , 
-https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-reference.odd, , 
-https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-witness.odd
-https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-reference.odd
-https://github.com/umd-mith/mishnah/raw/master/data/odd/brown_odds.rnc
+https://github.com/umd-mith/angles/raw/master/resources/tei_all.odd
 https://github.com/umd-mith/mishnah/raw/master/data/odd/brown_odds.isosch
-
+https://github.com/umd-mith/mishnah/raw/master/data/odd/brown_odds.rnc
+https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-reference.odd
+https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-reference.odd
+https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-witness.odd
+https://github.com/umd-mith/mishnah/raw/master/data/odd/mishnah-witness.odd
 https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001/P00001-0401.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001/P00001-0402.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001/P00001-0403.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/P00001.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/P00002.xml
-
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0101.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0102.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0103.xml
@@ -1106,159 +1057,208 @@ https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0304.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0305.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0306.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref/ref-0307.xml
-
+https://github.com/umd-mith/mishnah/raw/master/data/tei/ref-toharot-split.xml
 https://github.com/umd-mith/mishnah/raw/master/data/tei/ref.xml
-
-
-https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/crm.odd
-https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/dc.odd
-https://github.com/tharman/SADE/raw/sade_modules/src/modules/text-viewer/resources/tei/stylesheet/rdf/rdf.odd
-
-https://github.com/chnm/anthologize/raw/master/tests/includes/test.xml, , 
-https://github.com/chnm/anthologize/raw/master/tests/includes/test.pretty.xml, , 
-
-
-https://github.com/markotom/tei_visualization/raw/master/test/fixtures/documents/PrideAndPrejudice.xml, , 
-
-https://github.com/umd-mith/angles/raw/master/resources/tei_all.odd, , 
-
-https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/lib-header.odd, , 
-https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level1.odd, , 
-https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level2.odd, , 
-https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level3.odd, , 
-https://github.com/sydb/TEI-in-Libraries/raw/master/BestPractices/level4.odd, , 
-
-https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/hardy_a_singer_asleep.xml,  , 
-https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/teibp.xml, , 
-https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/teibpstyles.xml, , 
-https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/demo.xml, , 
-
-https://github.com/simar0at/tei-for-mecmua/raw/mecmua/P5/Source/Specs/address.xml, , 
-
-https://github.com/papyri/sosol/raw/master/data/templates/apis_identifier.xml.erb, ,
-https://github.com/papyri/sosol/raw/master/data/templates/epi_trans_cts_identifier.xml.erb, , 
-
-https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v1.xml, , 
-https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v2.xml, , 
-https://github.com/gabriel-weaver/xutools/raw/master/data/test/tei_xml/section.tei.v3.xml, , 
-
-https://github.com/supermario84/Parser/raw/master/src/main/resources/file9.xml, , 
-https://github.com/supermario84/Parser/raw/master/src/main/resources/file3.xml, , 
-https://raw.github.com/supermario84/Parser/master/src/main/resources/file.xml, , 
-
-https://github.com/MichaelBroschinsky/Templates/raw/master/TEI/Book.tei-full.xml, , 
-
-https://github.com/mangalam-research/salve/raw/master/test/tei/to_parse.xml, , 
-
-https://github.com/mromanello/raw/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml, https://raw.github.com/mromanello/Digital-Editions/master/athenaeus/deipnosophistae/TEI_XML/athenaeus_deipnosophistae.xml, 
-
-https://github.com/mikekestemont/Hadewijch/blob/master/Letters_MSA.xml?raw=true, , 
-
-https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/WizardOfOz1903.xml, , 
-
-https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/BlackCrook.xml, https://github.com/dougreside/World-TEI-repository/raw/master/MusicalOfTheMonth/BlackCrook.xml, 
-
-https://github.com/BlueM/TEIShredder/raw/master/test/Sample-1.xml, https://github.com/BlueM/TEIShredder/raw/master/test/Sample-1.xml, 
-
-https://github.com/paregorios/Zotero-RDF-to-TEI-XML/raw/master/data/papyri-info-4716.xml, https://github.com/paregorios/Zotero-RDF-to-TEI-XML/raw/master/data/papyri-info-4716.xml, 
-https://raw.github.com/paregorios/Zotero-RDF-to-TEI-XML/master/output-tei.xml, https://raw.github.com/paregorios/Zotero-RDF-to-TEI-XML/master/output-tei.xml, 
-
-https://raw.github.com/sebastianrahtz/tei-emacs/master/doc/emacstut/emacstut.xml, https://raw.github.com/sebastianrahtz/tei-emacs/master/doc/emacstut/emacstut.xml, 
-
-https://raw.github.com/kermitt2/grobid/master/grobid-trainer/resources/dataset/affiliation-address/corpus/0803686a.affiliation.tei.xml, https://raw.github.com/kermitt2/grobid/master/grobid-trainer/resources/dataset/affiliation-address/corpus/0803686a.affiliation.tei.xml, 
-
-http://docsouth.unc.edu/southlit/poe/poe.xml, http://docsouth.unc.edu/southlit/poe/poe.html, 
-
-http://sudamih.oucs.ox.ac.uk/databases_workshop.xml?style=raw, http://sudamih.oucs.ox.ac.uk/databases_workshop.xml,
-http://sudamih.oucs.ox.ac.uk/training_workshop.xml?style=raw, http://sudamih.oucs.ox.ac.uk/training_workshop.xml,
-http://sudamih.oucs.ox.ac.uk/documents.xml?style=raw, http://sudamih.oucs.ox.ac.uk/documents.xml, 
-
-http://eidcsr.oucs.ox.ac.uk/?style=raw, http://eidcsr.oucs.ox.ac.uk/,
-http://eidcsr.oucs.ox.ac.uk/background.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/background.xml, 
-http://eidcsr.oucs.ox.ac.uk/documents.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/documents.xml,
-http://eidcsr.oucs.ox.ac.uk/methodology.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/methodology.xml,
-http://eidcsr.oucs.ox.ac.uk/objectives.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/objectives.xml, 
-http://eidcsr.oucs.ox.ac.uk/contact.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/contact.xml,
-http://eidcsr.oucs.ox.ac.uk/team.xml?style=raw, http://eidcsr.oucs.ox.ac.uk/team.xml,
-
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/freedict-P5.dtd?format=raw, , 
-
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-ita/deu-ita.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ara/eng-ara.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-fra/eng-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-hin/eng-hin.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-hun/eng-hun.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-tur/eng-tur.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/kha-deu/kha-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/kha-eng/kha-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/lat-eng/lat-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/hun-eng/hun-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/afr-deu/afr-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/tur-eng/tur-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/dan-eng/dan-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-fra/deu-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-nld/deu-nld.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-por/deu-por.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-deu/eng-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ita/eng-ita.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-lat/eng-lat.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/lat-deu/lat-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-deu/nld-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-nld/eng-nld.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-por/eng-por.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-rus/eng-rus.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-spa/eng-spa.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-swe/eng-swe.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-deu/fra-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-eng/fra-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-nld/fra-nld.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-deu/ita-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-eng/ita-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/jpn-deu/jpn-deu.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-eng/nld-eng.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-fra/nld-fra.tei?format=raw, ,
-http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/por-deu/por-deu.tei?format=raw, ,
-
-
-http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza001eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza001, 
-http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza022eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza022, 
-http://buddhistinformatics.ddbc.edu.tw/BZA/getsource.xql?src=bza003eng.xml, http://buddhistinformatics.ddbc.edu.tw/BZA/cluster.xql?base=bza003, 
-
-http://irt.kcl.ac.uk/irt2009/IRT001.xml, http://irt.kcl.ac.uk/irt2009/IRT001.html, 
-http://irt.kcl.ac.uk/irt2009/IRT002.xml, http://irt.kcl.ac.uk/irt2009/IRT002.html, 
-http://irt.kcl.ac.uk/irt2009/IRT100.xml, http://irt.kcl.ac.uk/irt2009/IRT100.html, 
-http://irt.kcl.ac.uk/irt2009/IRT101.xml, http://irt.kcl.ac.uk/irt2009/IRT101.html, 
-
-https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.133.xml, https://github.com/papyri/idp.data/, 
-https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.2.xml, https://github.com/papyri/idp.data/, 
-https://github.com/papyri/idp.data/raw/master/APIS/gothenburg/xml/gothenburg.apis.12.xml, https://github.com/papyri/idp.data/, 
-https://github.com/papyri/idp.data/raw/master/APIS/petra/xml/petra.apis.35.xml, https://github.com/papyri/idp.data/, 
-https://github.com/papyri/idp.data/raw/master/APIS/petra/xml/petra.apis.1.xml, https://github.com/papyri/idp.data/, 
-https://github.com/papyri/idp.data/raw/master/APIS/duke/xml/duke.apis.29886224.xml, https://github.com/papyri/idp.data/, 
-https://github.com/papyri/idp.data/raw/master/APIS/duke/xml/duke.apis.29885999.xml, https://github.com/papyri/idp.data/, 
-
-http://archimedespalimpsest.net/Data/0000-171v/0000-171v_Arch68r_TEI_Netz-Wilson.xml
-http://archimedespalimpsest.net/Data/0000-171r/0000-171r_Arch68v_TEI_Netz-Wilson.xml
-http://archimedespalimpsest.net/Data/0000-100v/0000-100v_Arch53r_TEI_Netz-Wilson.xml
-http://archimedespalimpsest.net/Data/0000-100r/0000-100r_Arch53v_TEI_Netz-Wilson.xml
-
-
-
-
-http://teibyexample.org/docs/software.htm?cocoon-view=XML, 
-http://teibyexample.org/docs/about.htm?cocoon-view=XML, 
-http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED01v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED02v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED03v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED04v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED05v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED06v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED07v00.htm?cocoon-view=XML,
-http://teibyexample.org/modules/TBED08v00.htm?cocoon-view=XML,
-
-
-
+https://github.com/viscenter/Server_side/raw/master/ctsPlay_2/xml-tabulator/BonniesFiles_jb/John1-lat.xml
+https://github.com/viscenter/Server_side/raw/master/ctsPlay_2/xml-tabulator/BonniesFiles_jb/Mark-Latin-NIV.xml
+https://github.com/wp-plugins/anthologize/raw/master/tests/teiApiTests/test.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/10000050.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/20000006.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/703376.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-1.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-2.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-3.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-4.tei.xml
+https://github.com/xbib/xbib/raw/master/textmining/citparse/src/test/resources/org/grobid/core/annotations/resTeiStAXParser/sample-5.tei.xml
+https://ignis.googlecode.com/hg/newconv.xml
+https://ignis.googlecode.com/hg/new.xml
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/autumn.xml
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc2.xml
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/doc.xml
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_facs.xml
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_frag.xml
+https://juxta.googlecode.com/svn/juxta/trunk/juxta-ws-test/data/whitman_works.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1a1.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1b3.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1d2.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM1e10.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM2b5.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM2d6.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM2v5.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM3e3.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM_Glag1.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZM_ONB42.xml
+http://slovo-aso.cl.bas.bg/xml/ASO_MSS_ZMQpI35.xml
+http://slovo-aso.cl.bas.bg/xml/repertorium_lite.xml
+http://slovo-aso.cl.bas.bg/xml/repertorium.xml
+http://sourceforge.net/p/algone/code/HEAD/tree/corpus/andersen/andersen_contes.xml?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/afr-deu/afr-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/bre-fra/bre-fra.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/dan-eng/dan-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/deu-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-eng/freedict-P5.dtd?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-fra/deu-fra.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-ita/deu-ita.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-nld/deu-nld.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/deu-por/deu-por.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ara/eng-ara.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-deu/eng-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-fra/eng-fra.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-hin/eng-hin.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-hun/eng-hun.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-ita/eng-ita.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-lat/eng-lat.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-nld/eng-nld.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-por/eng-por.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-rus/eng-rus.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-spa/eng-spa.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-swe/eng-swe.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/eng-tur/eng-tur.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-bre/fra-bre.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-deu/fra-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-eng/fra-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/fra-nld/fra-nld.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/hun-eng/hun-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-deu/ita-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/ita-eng/ita-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/jpn-deu/jpn-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/kha-deu/kha-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/kha-eng/kha-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/lat-deu/lat-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/lat-eng/lat-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-deu/nld-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-eng/nld-eng.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/nld-fra/nld-fra.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/por-deu/por-deu.tei?format=raw
+http://sourceforge.net/p/freedict/code/HEAD/tree/trunk/tur-eng/tur-eng.tei?format=raw
+http://sourceforge.net/p/txm/code/HEAD/tree/trunk/corpora/web_graal/qgraal_frmod_2009-07-w.xml?format=raw
+http://sourceforge.net/p/weboai/code/HEAD/tree/schema/teiHeader.xml?format=raw
+https://oxygen-tei.googlecode.com/svn-history/r56/trunk/oxygen-tei/frameworks/tei/xml/tei/odd/p5subset.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/BX8558.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP190.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP201.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/CORP265.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/COTTIBA3.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/JUNIUS.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/LAUD482.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TCTH482.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TCTH8558.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEH201.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TOEI121.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC121.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC190.xml
+https://penitentials.googlecode.com/svn/trunk/OEP/data/TSBOC482.xml
+https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-A.tei
+https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-B.tei
+https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-D.tei
+https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-G.tei
+https://phildict.googlecode.com/svn-history/r194/trunk/Data/Wolff/WCED-S.tei
+https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/demo.xml
+https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/hardy_a_singer_asleep.xml
+https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/teibpstyles.xml
+https://raw.github.com/GrantLS/TEI-Boilerplate/master/content/teibp.xml
+https://raw.github.com/kermitt2/grobid/master/grobid-trainer/resources/dataset/affiliation-address/corpus/0803686a.affiliation.tei.xml
+https://raw.github.com/paregorios/Zotero-RDF-to-TEI-XML/master/output-tei.xml
+https://raw.github.com/sebastianrahtz/tei-emacs/master/doc/emacstut/emacstut.xml
+https://raw.github.com/supermario84/Parser/master/src/main/resources/file.xml
+https://svn.duraspace.org/view/fcrepo-mirror/fedora/trunk/src/demo-content/formatting-objects-demo/teixsl.xml?revision=7948&pathrev=7948
+https://tei2html.googlecode.com/svn-history/r465/trunk/samples/PhilippineFolkTales.xml
+https://tei2html.googlecode.com/svn/trunk/samples/Cole%20-%20Philippine%20Folk%20Tales/PhilippineFolkTales.xml
+https://tei2html.googlecode.com/svn/trunk/samples/Fansler%20-%20Filipino%20Popular%20Tales/FilipinoPopularTales.xml
+https://tei2html.googlecode.com/svn/trunk/samples/hakespeare%20-%20Twee%20Edellieden%20van%20Verona/WS-03-EdelliedenVerona.xml
+https://tei2html.googlecode.com/svn/trunk/samples/Kayme%20-%20Anting-Anting%20Stories/AntingAnting.xml
+https://tei-enrich.googlecode.com/svn/trunk/enrichRef-1.0.xml
+https://tei-fr.googlecode.com/svn/trunk/Talks/2012-01-caen/annotation.xml
+https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/talk-editing.xml
+https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/talk-hdr.xml
+https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/tp-oxygen.xml
+https://tei-fr.googlecode.com/svn/trunk/Talks/2012-06-reggio/tp-styling.xml
+https://tei-fr.googlecode.com/svn/trunk/Talks/2013-05-barcelona/report.xml
+http://stephens-letters.googlecode.com/svn/trunk/StephensCorpus.xml
+http://sudamih.oucs.ox.ac.uk/databases_workshop.xml?style=raw
+http://sudamih.oucs.ox.ac.uk/documents.xml?style=raw
+http://sudamih.oucs.ox.ac.uk/training_workshop.xml?style=raw
+http://svn.apache.org/repos/asf/forrest/trunk/examples/contentIntegration/src/documentation/content/xdocs/samples/xdoc.xml
+http://svn.apache.org/repos/asf/forrest/trunk/whiteboard/plugins/org.apache.forrest.plugin.input.tei/src/documentation/content/xdocs/sample/xdoc.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Civ.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/caesar/Caes.Gal.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Ac.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Amic.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Amic.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Att.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Brut.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Div.en.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/caescic/cicero/Cic.Div.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/eld/body/lewis2.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/homeric/body/homeric.xml
+http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/monier.xml.zip
+http://svn.sourceforge.jp/svnroot/classicalepwing/monier/body/MWHeader.xml
+https://www.clarin.dk/schemas/tei/TEIDKCLARIN-plain-tei.rng
+http://teibyexample.org/docs/about.htm?cocoon-view=XML
+http://teibyexample.org/docs/software.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED00v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED01v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED02v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED03v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED04v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED05v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED06v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED07v00.htm?cocoon-view=XML
+http://teibyexample.org/modules/TBED08v00.htm?cocoon-view=XML
+http://tei.hrit-php.googlecode.com/hg/tei_parser_full/xml/winchester.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief001ChamissoandeLaFoye.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief002ChamissoandeLaFoye.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01TieckanRaumer.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief01vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief02vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief03vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief04vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief05vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief06vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief07vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief08vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief09vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief10vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief11vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief12vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief13vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief14vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief15vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief16vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief17vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Brief17vonBuchanBeausobre.xml
+http://tei.ibi.hu-berlin.de/berliner-intellektuelle/xml/Reinbold_Literaturbrief.xml
+http://tei.oucs.ox.ac.uk/Talks/2011-02-aix/talk-hdr.xml?style=raw
+http://tiro-interactive.googlecode.com/svn/prado/trunk/protected/Pages/TextManagement/Plugins/Definitions/ExampleXML.xml
+http://tiro-interactive.googlecode.com/svn/prado/trunk/protected/Pages/TextManagement/Plugins/Definitions/xmlchunk.cursus.xml
+http://www.acmuller.net/download/ddb-sample.xml
+http://www.blackmesatech.com/2009/10/thutmose/L1/user-supplied-text.xml
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A00
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A01
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A02
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A03
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A04
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A05
+http://www.cs.bham.ac.uk/~mgl/nlpa/resources/bnc/A06
+http://www.gutenberg.org/files/11400/11400-x/11400-x.xml
+http://www.hab.de/files/europeana-regia/ODD/europeana-regia_ODD.xml
+http://www.hab.de/files/europeana-regia/ODD/europeana-regia.xml
+http://www.hab.de/files/europeana-regia/ODD/v0.1/schemaSpec.xml
+http://www.ibsen.uio.no/DRVIT_Vi|Vi4262III1.xml
+http://www.iula.upf.edu/corpus/D154CatHeader.html
+http://www.library.umass.edu/spcoll/digital/antislavery/016v2.xml
+http://www.library.umass.edu/spcoll/digital/antislavery/016.xml
+http://www.natcorp.ox.ac.uk/archive/vault/bncx32.txt
+http://www.steinheim-institut.de/cgi-bin/epixml?xfunction=Ins&xsel=bay&xinv=0001
+http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/ie
+http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/tei_ms.dtd
+http://www.terpconnect.umd.edu/~ayannaw/dcc106XML/template.xml
+http://www.ucc.ie/dtds/tei/xml/teixlite.dtd
+http://www.ucc.ie/dtds/tei/xml/teixml.dtd
+http://www.wwp.brown.edu/outreach/seminars/cust_2010-08/demos/exhibits.xml
+http://www.wwp.brown.edu/outreach/seminars/uvic2007/schema/yaps.odd
+http://xml-biblio.sourceforge.net/examples_ver.2.xml
+letters.mozartways.com/index.php?lang=eng&letter=9&bd=209&xmlview=on

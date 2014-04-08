@@ -1012,12 +1012,34 @@ https://github.com/viscenter/Server_side/raw/master/ctsPlay_2/xml-tabulator/Bonn
 
 https://github.com/dhamma/tipitaka/raw/master/cst4xml-devanagari/e1213n.nrf.xml, , 
 
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041401.xml, , 
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041404.xml, , 
-https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041425.xml, , 
-https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml, , 
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0010xx/A001002.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0020xx/A002068.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/persons/A0002xx/A000213.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0302xx/A030241.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0300xx/A030081.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/writings/A0300xx/A030313.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041401.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041425.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/letters/A0414xx/A041404.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060002.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060001.xml
+https://github.com/Edirom/WeGA-WebApp/raw/master/example-data/diaries/A0600xx/A060003.xml
 
-https://github.com/faustedition/app/raw/master/faust/src/test/resources/de/faustedition/tei/faust-tei-sample.xml, , 
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_biblio.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_news.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_works.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_diaries.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_letters.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_persons.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_common.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_writings.odd.xml
+https://github.com/Edirom/WeGA-ODD/raw/master/src/WeGA_var.odd.xml
+
+
+
+https://github.com/faustedition/app/raw/master/faust/src/test/resources/de/faustedition/tei/faust-tei-sample.xml 
+https://github.com/faustedition/app/raw/master/faust-schema/src/main/odd/faust-tei.xml
 
 https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test1.xml, , 
 https://github.com/gitpan/Text-TEI-Collate/raw/master/t/data/xml_plain/test2.xml, , 

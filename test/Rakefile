@@ -1,2 +1,11 @@
 # a rakefile for build the sample corpus
 
+BUILD=./build/
+
+task :createBuildDirectory => [:clean] do
+     directory BUILD 
+end
+
+task :clean do
+
+end

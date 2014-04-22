@@ -1,5 +1,15 @@
 # a rakefile for build the sample corpus
 
+#this is the old-style bash command line we're trying to better
+#for dir in *; 
+#do  
+#    cd $dir;
+#    git pull;
+#    stub=`git config --get remote.origin.url | sed 's|/[^/]*\.git||'`;  
+#    cd -;
+3    grep -lR "\(</teiHeader>\|</TEI>\|</TEI.2>\|</fileDesc>\|</bibl>\|<seg \)" $dir | sed "s|\([^/]*\)/\(.*\)|$stub/\1/raw/master/\2|"; 
+#done 
+
 BUILD=./build/
 
 task :createBuildDirectory => [:clean] do
@@ -9,3 +19,6 @@ end
 task :clean do
 
 end
+
+
+

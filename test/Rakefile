@@ -7,18 +7,27 @@
 #    git pull;
 #    stub=`git config --get remote.origin.url | sed 's|/[^/]*\.git||'`;  
 #    cd -;
-3    grep -lR "\(</teiHeader>\|</TEI>\|</TEI.2>\|</fileDesc>\|</bibl>\|<seg \)" $dir | sed "s|\([^/]*\)/\(.*\)|$stub/\1/raw/master/\2|"; 
+#    grep -lR "\(</teiHeader>\|</TEI>\|</TEI.2>\|</fileDesc>\|</bibl>\|<seg \)" $dir | sed "s|\([^/]*\)/\(.*\)|$stub/\1/raw/master/\2|"; 
 #done 
 
-BUILD=./build/
+#BUILD = ./build/
 
 task :createBuildDirectory => [:clean] do
-     directory BUILD 
+     directory "./build/"
 end
 
 task :clean do
 
 end
 
+
+task :dothework => [:createBuildDirectory] do
+     line_num=0
+     text=File.open('xxx.txt').read
+     text.gsub!(/\r\n?/, "\n")
+     text.each_line do |line|
+          print "#{line_num += 1} #{line}"	
+     end
+end
 
 

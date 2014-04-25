@@ -22,12 +22,13 @@ end
 
 
 task :dothework => [:createBuildDirectory] do
-     line_num=0
+     cp "github_projects.urls", "TMP"
      text=File.open('github_projects.urls').read
      text.gsub!(/\r\n?/, "\n")
      text.each_line do |line|
           git = line.match('https?://github.com/([^/\n\r]*)/([^/\n\r]*)/?')
-          print "https://github.com/#{git[1]}/#{git[2]}.git"	
+          git_url = "https://github.com/#{git[1]}/#{git[2]}.git\n"
+	  print git_url	
      end
 end
 

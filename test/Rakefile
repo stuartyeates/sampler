@@ -10,17 +10,6 @@
 #    grep -lR "\(</teiHeader>\|</TEI>\|</TEI.2>\|</fileDesc>\|</bibl>\|<seg \)" $dir | sed "s|\([^/]*\)/\(.*\)|$stub/\1/raw/master/\2|"; 
 #done 
 
-#BUILD = ./build/
-
-task :createBuildDirectory => [:clean] do
-     directory "./build/"
-end
-
-task :clean do
-
-end
-
-
 task :dothework => [:createBuildDirectory] do
      cp "github_projects.urls", "TMP"
      text=File.open('github_projects.urls').read
